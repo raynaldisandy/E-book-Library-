@@ -1,0 +1,6 @@
+model,jumlah_pasangan,buku_tercakup,kompetensi_tercakup,rata_rata_top5,runtime_file
+bm25,65191,973,67,5.0,TERSEDIA
+tfidf,65191,973,67,5.0,TERSEDIA
+fasttext,65191,973,67,5.0,TERSEDIA
+e5,65191,973,67,5.0,TERSEDIA
+bge_m3,65191,973,67,5.0,TERSEDIA

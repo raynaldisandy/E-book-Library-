@@ -1,0 +1,10 @@
+.venv/
+venv/
+reports/
+scripts/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+frontend/node_modules/
+frontend/dist/

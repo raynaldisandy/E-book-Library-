@@ -1,0 +1,68 @@
+﻿competency_id,excel_column,competency_name,search_query
+C001,AB,Business Development,Business Development
+C002,AC,Marketing Management,Marketing Management
+C003,AD,Service and Complaint Management,Service and Complaint Management
+C004,AE,Membership Administration Management,Membership Administration Management
+C005,AF,Strategic Purchasing,Strategic Purchasing
+C006,AG,Provider Management,Provider Management
+C007,AH,Claim Management,Claim Management
+C008,AI,Utilization Management,Utilization Management
+C009,AJ,Fraud Management,Fraud Management
+C010,AK,Corporate Budgeting Management,Corporate Budgeting Management
+C011,AL,Strategy Management,Strategy Management
+C012,AM,Organization Design and Development,Organization Design and Development
+C013,AN,Competence Management,Competence Management
+C014,AO,Process Management System,Process Management System
+C015,AP,Quality Management,Quality Management
+C016,AQ,Research and Development,Research and Development
+C017,AR,Product Knowledge and Management,Product Knowledge and Management
+C018,AS,Knowledge Management,Knowledge Management
+C019,AT,Innovation Management,Innovation Management
+C020,AU,Health Actuary,Health Actuary
+C021,AV,Health Economic,Health Economic
+C022,AW,Good Corporate Governance,Good Corporate Governance
+C023,AX,Risk Management,Risk Management
+C024,AY,Internal Compliance,Internal Compliance
+C025,AZ,Auditing Skill,Auditing Skill
+C026,BA,Member Compliance Enforcing,Member Compliance Enforcing
+C027,BB,Regulation Management,Regulation Management
+C028,BC,Legal Drafting,Legal Drafting
+C029,BD,Law Management,Law Management
+C030,BE,Premium Collecting,Premium Collecting
+C031,BF,Investment Management,Investment Management
+C032,BG,Tax Management,Tax Management
+C033,BH,Treasury Management,Treasury Management
+C034,BI,Financial Accounting,Financial Accounting
+C035,BJ,Management Accounting,Management Accounting
+C036,BK,Institutional Relations,Institutional Relations
+C037,BL,Negotiation Skill,Negotiation Skill
+C038,BM,Public Relations,Public Relations
+C039,BN,Event Management,Event Management
+C040,BO,Internal Relations,Internal Relations
+C041,BP,Office Administration,Office Administration
+C042,BQ,Protocol,Protocol
+C043,BR,Man Power Planning,Man Power Planning
+C044,BS,Recruitment and Selection,Recruitment and Selection
+C045,BT,Performance Management System,Performance Management System
+C046,BU,Talent Management,Talent Management
+C047,BV,Industrial Relation,Industrial Relation
+C048,BW,Reward Management,Reward Management
+C049,BX,Instructional Design,Instructional Design
+C050,BY,Learning Management,Learning Management
+C051,BZ,Change Management,Change Management
+C052,CA,Culture Development,Culture Development
+C053,CB,Procurement,Procurement
+C054,CC,Inventory Management,Inventory Management
+C055,CD,IT Planning and Design,IT Planning and Design
+C056,CE,Database Design and Development,Database Design and Development
+C057,CF,IT Software Development,IT Software Development
+C058,CG,IT Quality,IT Quality
+C059,CH,IT Infrastructure and Asset Management,IT Infrastructure and Asset Management
+C060,CI,IT Network,IT Network
+C061,CJ,IT Security,IT Security
+C062,CK,Database Administration,Database Administration
+C063,CL,IT Service Management,IT Service Management
+C064,CM,Release and Deployment,Release and Deployment
+C065,CN,Data Management,Data Management
+C066,CO,Data Analytics,Data Analytics
+C067,CP,Data Visualization,Data Visualization

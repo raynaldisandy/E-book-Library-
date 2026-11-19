@@ -1,0 +1,68 @@
+﻿competency_id,teks_query
+C001,Business Development business growth; business strategy; market opportunities
+C002,Marketing Management marketing strategy; marketing analytics; customer segmentation
+C003,Service and Complaint Management customer service; complaint handling; service recovery
+C004,Membership Administration Management membership administration; eligibility; enrollment operations
+C005,Strategic Purchasing strategic purchasing; value based healthcare; purchasing contracts
+C006,Provider Management healthcare provider networks; provider contracting; provider performance
+C007,Claim Management health insurance claims; claims processing; claims adjudication
+C008,Utilization Management healthcare utilization; utilization review; medical necessity
+C009,Fraud Management fraud detection; healthcare fraud; fraud prevention
+C010,Corporate Budgeting Management corporate budgeting; financial planning; budget control
+C011,Strategy Management strategic planning; strategy execution; competitive analysis
+C012,Organization Design and Development organizational design; organizational development; operating model
+C013,Competence Management competency frameworks; skill assessment; competency development
+C014,Process Management System business process management; workflow improvement; process optimization
+C015,Quality Management quality assurance; quality improvement; quality management systems
+C016,Research and Development research methods; applied research; research and development
+C017,Product Knowledge and Management product management; product lifecycle; product knowledge
+C018,Knowledge Management knowledge sharing; knowledge management systems; organizational learning
+C019,Innovation Management innovation strategy; innovation management; design thinking
+C020,Health Actuary health actuarial science; health insurance pricing; actuarial modeling
+C021,Health Economic health economics; health financing; cost effectiveness analysis
+C022,Good Corporate Governance corporate governance; board governance; business ethics
+C023,Risk Management enterprise risk; risk assessment; risk mitigation
+C024,Internal Compliance regulatory compliance; internal controls; compliance monitoring
+C025,Auditing Skill internal auditing; audit procedures; audit evidence
+C026,Member Compliance Enforcing member compliance; policy enforcement; compliance behavior
+C027,Regulation Management regulatory affairs; regulatory analysis; regulation implementation
+C028,Legal Drafting legal drafting; contract drafting; legislative drafting
+C029,Law Management legal operations; legal risk; corporate law
+C030,Premium Collecting insurance premium collection; receivables; debt collection
+C031,Investment Management investment portfolio; asset allocation; investment risk
+C032,Tax Management tax compliance; corporate taxation; tax planning
+C033,Treasury Management cash management; liquidity management; corporate treasury
+C034,Financial Accounting financial reporting; financial statements; accounting standards
+C035,Management Accounting management accounting; cost accounting; managerial decisions
+C036,Institutional Relations stakeholder engagement; institutional partnerships; government relations
+C037,Negotiation Skill negotiation techniques; bargaining; conflict resolution
+C038,Public Relations public relations strategy; media relations; reputation management
+C039,Event Management event planning; event operations; event evaluation
+C040,Internal Relations employee relations; internal communication; organizational relations
+C041,Office Administration office administration; records management; administrative procedures
+C042,Protocol protocol management; formal ceremonies; diplomatic protocol
+C043,Man Power Planning workforce planning; staffing forecasts; headcount planning
+C044,Recruitment and Selection recruitment methods; candidate assessment; personnel selection
+C045,Performance Management System employee performance; appraisal systems; performance indicators
+C046,Talent Management talent identification; succession planning; talent development
+C047,Industrial Relation labor relations; employment relations; industrial dispute
+C048,Reward Management compensation strategy; benefits management; reward systems
+C049,Instructional Design instructional design; curriculum development; learning objectives
+C050,Learning Management learning programs; learning evaluation; learning management systems
+C051,Change Management organizational change; change leadership; change adoption
+C052,Culture Development organizational culture; values alignment; cultural transformation
+C053,Procurement procurement process; sourcing strategy; supplier selection
+C054,Inventory Management inventory control; stock optimization; warehouse management
+C055,IT Planning and Design IT architecture; IT strategy; system design
+C056,Database Design and Development relational database design; data modeling; database development
+C057,IT Software Development software engineering; application development; programming practices
+C058,IT Quality software quality; software testing; quality assurance
+C059,IT Infrastructure and Asset Management IT asset management; infrastructure operations; IT lifecycle
+C060,IT Network computer networking; network architecture; network troubleshooting
+C061,IT Security cybersecurity; information security; security controls
+C062,Database Administration database administration; backup recovery; database performance
+C063,IT Service Management ITIL service management; incident management; service operations
+C064,Release and Deployment software deployment; release management; continuous delivery
+C065,Data Management data governance; master data management; data quality
+C066,Data Analytics data analysis; statistics; predictive analytics
+C067,Data Visualization data visualization; dashboards; visual storytelling

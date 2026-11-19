@@ -1,0 +1,6 @@
+﻿bagian,kebutuhan,kriteria_penerimaan
+Fungsi A,Satu buku ke banyak kompetensi,Daftar competency_id dan skor setiap pasangan
+Fungsi B,Satu kompetensi ke maksimal 10 buku,"Urutan, judul, tahun, abstrak, kategori, author, skor"
+Pencocokan,Semua buku × semua kompetensi,Matriks per model sesuai ukuran populasi
+Perbandingan,Lima algoritma pada input yang sama,Hasil terpisah dan status eksekusi tercatat
+Validasi relevansi,Penilai independen dan rubrik terbuka,Tidak memakai kolom kompetensi lama sebagai ground truth

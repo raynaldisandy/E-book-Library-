@@ -1,0 +1,2011 @@
+model,competency_id,book_id,ranking,term_overlap_query,matched_terms
+bm25,C001,BK00164,1,0.5,business
+bm25,C001,BK00028,2,0.5,business
+bm25,C001,BK00001,3,0.5,business
+bm25,C001,BK00002,4,1.0,business development
+bm25,C001,BK00179,5,1.0,business development
+bm25,C001,BK00167,6,0.5,business
+bm25,C001,BK00006,7,0.5,business
+bm25,C001,BK00246,8,0.5,business
+bm25,C001,BK00005,9,0.5,business
+bm25,C001,BK00250,10,1.0,business development
+bm25,C002,BK00025,1,1.0,management marketing
+bm25,C002,BK00067,2,1.0,management marketing
+bm25,C002,BK00027,3,1.0,management marketing
+bm25,C002,BK00063,4,1.0,management marketing
+bm25,C002,BK00400,5,1.0,management marketing
+bm25,C002,BK00066,6,1.0,management marketing
+bm25,C002,BK00179,7,1.0,management marketing
+bm25,C002,BK00065,8,1.0,management marketing
+bm25,C002,BK00042,9,0.5,marketing
+bm25,C002,BK00957,10,0.5,management
+bm25,C003,BK00047,1,0.3333333333333333,service
+bm25,C003,BK00051,2,0.6666666666666666,management service
+bm25,C003,BK00050,3,0.3333333333333333,service
+bm25,C003,BK00072,4,0.6666666666666666,management service
+bm25,C003,BK00056,5,0.3333333333333333,service
+bm25,C003,BK00063,6,0.6666666666666666,management service
+bm25,C003,BK00069,7,0.6666666666666666,management service
+bm25,C003,BK00045,8,0.3333333333333333,service
+bm25,C003,BK00054,9,0.3333333333333333,service
+bm25,C003,BK00066,10,0.6666666666666666,management service
+bm25,C004,BK00611,1,0.6666666666666666,administration management
+bm25,C004,BK00058,2,0.6666666666666666,administration management
+bm25,C004,BK00217,3,0.3333333333333333,management
+bm25,C004,BK00817,4,0.3333333333333333,administration
+bm25,C004,BK00546,5,0.3333333333333333,management
+bm25,C004,BK00860,6,0.3333333333333333,administration
+bm25,C004,BK00083,7,0.3333333333333333,management
+bm25,C004,BK00737,8,0.6666666666666666,administration management
+bm25,C004,BK00107,9,0.3333333333333333,administration
+bm25,C004,BK00738,10,0.6666666666666666,administration management
+bm25,C005,BK00233,1,0.5,strategic
+bm25,C005,BK00084,2,0.5,purchasing
+bm25,C005,BK00137,3,0.0,
+bm25,C005,BK00698,4,1.0,purchasing strategic
+bm25,C005,BK00089,5,0.5,purchasing
+bm25,C005,BK00087,6,1.0,purchasing strategic
+bm25,C005,BK00090,7,0.0,
+bm25,C005,BK00007,8,0.5,strategic
+bm25,C005,BK00441,9,0.0,
+bm25,C005,BK00357,10,0.5,strategic
+bm25,C006,BK00318,1,1.0,management provider
+bm25,C006,BK00103,2,0.0,
+bm25,C006,BK00591,3,0.5,management
+bm25,C006,BK00090,4,0.5,management
+bm25,C006,BK00852,5,0.5,management
+bm25,C006,BK00101,6,1.0,management provider
+bm25,C006,BK00626,7,0.5,management
+bm25,C006,BK00699,8,0.5,management
+bm25,C006,BK00611,9,0.5,management
+bm25,C006,BK00227,10,0.5,management
+bm25,C007,BK00410,1,0.5,management
+bm25,C007,BK00107,2,0.5,claim
+bm25,C007,BK00110,3,1.0,claim management
+bm25,C007,BK00104,4,0.0,
+bm25,C007,BK00105,5,0.0,
+bm25,C007,BK00411,6,0.0,
+bm25,C007,BK00963,7,0.0,
+bm25,C007,BK00585,8,0.0,
+bm25,C007,BK00748,9,0.0,
+bm25,C007,BK00312,10,0.0,
+bm25,C008,BK00111,1,0.5,management
+bm25,C008,BK00626,2,0.5,management
+bm25,C008,BK00320,3,0.5,utilization
+bm25,C008,BK00319,4,0.0,
+bm25,C008,BK00381,5,0.0,
+bm25,C008,BK00289,6,0.5,management
+bm25,C008,BK00678,7,0.5,management
+bm25,C008,BK00095,8,0.5,management
+bm25,C008,BK00118,9,0.0,
+bm25,C008,BK00227,10,0.5,management
+bm25,C009,BK00124,1,0.5,fraud
+bm25,C009,BK00132,2,0.5,fraud
+bm25,C009,BK00390,3,0.0,
+bm25,C009,BK00127,4,0.5,fraud
+bm25,C009,BK00121,5,0.5,fraud
+bm25,C009,BK00122,6,0.5,fraud
+bm25,C009,BK00130,7,0.5,fraud
+bm25,C009,BK00932,8,0.5,fraud
+bm25,C009,BK00109,9,0.5,management
+bm25,C009,BK00123,10,0.5,fraud
+bm25,C010,BK00142,1,0.6666666666666666,budgeting management
+bm25,C010,BK00467,2,1.0,budgeting corporate management
+bm25,C010,BK00146,3,0.6666666666666666,budgeting management
+bm25,C010,BK00145,4,0.6666666666666666,budgeting management
+bm25,C010,BK00143,5,0.3333333333333333,budgeting
+bm25,C010,BK00148,6,1.0,budgeting corporate management
+bm25,C010,BK00144,7,0.6666666666666666,budgeting management
+bm25,C010,BK00461,8,0.6666666666666666,corporate management
+bm25,C010,BK00597,9,0.6666666666666666,budgeting management
+bm25,C010,BK00150,10,0.6666666666666666,budgeting management
+bm25,C011,BK00028,1,1.0,management strategy
+bm25,C011,BK00027,2,1.0,management strategy
+bm25,C011,BK00160,3,0.5,strategy
+bm25,C011,BK00154,4,1.0,management strategy
+bm25,C011,BK00246,5,0.5,strategy
+bm25,C011,BK00166,6,0.5,strategy
+bm25,C011,BK00451,7,1.0,management strategy
+bm25,C011,BK00700,8,1.0,management strategy
+bm25,C011,BK00018,9,1.0,management strategy
+bm25,C011,BK00161,10,1.0,management strategy
+bm25,C012,BK00192,1,1.0,design development organization
+bm25,C012,BK00184,2,1.0,design development organization
+bm25,C012,BK00258,3,0.3333333333333333,organization
+bm25,C012,BK00620,4,0.6666666666666666,design organization
+bm25,C012,BK00191,5,0.6666666666666666,design organization
+bm25,C012,BK00193,6,1.0,design development organization
+bm25,C012,BK00178,7,0.6666666666666666,development organization
+bm25,C012,BK00696,8,0.6666666666666666,development organization
+bm25,C012,BK00725,9,1.0,design development organization
+bm25,C012,BK00901,10,0.3333333333333333,organization
+bm25,C013,BK00199,1,0.5,competence
+bm25,C013,BK00194,2,0.5,management
+bm25,C013,BK00641,3,1.0,competence management
+bm25,C013,BK00600,4,0.0,
+bm25,C013,BK00325,5,0.0,
+bm25,C013,BK00295,6,0.0,
+bm25,C013,BK00372,7,0.5,management
+bm25,C013,BK00546,8,0.5,management
+bm25,C013,BK00897,9,0.0,
+bm25,C013,BK00375,10,0.5,management
+bm25,C014,BK00216,1,0.6666666666666666,process system
+bm25,C014,BK00222,2,1.0,management process system
+bm25,C014,BK00679,3,0.3333333333333333,management
+bm25,C014,BK00245,4,0.3333333333333333,management
+bm25,C014,BK00779,5,0.3333333333333333,process
+bm25,C014,BK00212,6,0.3333333333333333,process
+bm25,C014,BK00214,7,0.3333333333333333,process
+bm25,C014,BK00213,8,0.6666666666666666,management process
+bm25,C014,BK00211,9,0.6666666666666666,management process
+bm25,C014,BK00224,10,0.6666666666666666,management system
+bm25,C015,BK00783,1,1.0,management quality
+bm25,C015,BK00782,2,1.0,management quality
+bm25,C015,BK00784,3,0.5,quality
+bm25,C015,BK00785,4,1.0,management quality
+bm25,C015,BK00718,5,0.5,management
+bm25,C015,BK00234,6,1.0,management quality
+bm25,C015,BK00790,7,1.0,management quality
+bm25,C015,BK00792,8,0.5,quality
+bm25,C015,BK00780,9,0.5,quality
+bm25,C015,BK00212,10,0.5,quality
+bm25,C016,BK00316,1,1.0,development research
+bm25,C016,BK00934,2,0.5,research
+bm25,C016,BK00055,3,0.5,research
+bm25,C016,BK00115,4,0.0,
+bm25,C016,BK00733,5,0.0,
+bm25,C016,BK00600,6,1.0,development research
+bm25,C016,BK00295,7,1.0,development research
+bm25,C016,BK00237,8,0.5,research
+bm25,C016,BK00654,9,0.0,
+bm25,C016,BK00226,10,1.0,development research
+bm25,C017,BK00251,1,1.0,knowledge management product
+bm25,C017,BK00765,2,0.6666666666666666,knowledge management
+bm25,C017,BK00912,3,0.6666666666666666,management product
+bm25,C017,BK00808,4,0.6666666666666666,knowledge management
+bm25,C017,BK00898,5,0.6666666666666666,management product
+bm25,C017,BK00890,6,0.3333333333333333,management
+bm25,C017,BK00908,7,0.3333333333333333,management
+bm25,C017,BK00245,8,0.6666666666666666,management product
+bm25,C017,BK00247,9,0.6666666666666666,management product
+bm25,C017,BK00788,10,0.6666666666666666,management product
+bm25,C018,BK00265,1,0.5,knowledge
+bm25,C018,BK00263,2,1.0,knowledge management
+bm25,C018,BK00254,3,1.0,knowledge management
+bm25,C018,BK00259,4,0.5,knowledge
+bm25,C018,BK00262,5,0.5,knowledge
+bm25,C018,BK00267,6,0.5,knowledge
+bm25,C018,BK00855,7,0.5,knowledge
+bm25,C018,BK00622,8,1.0,knowledge management
+bm25,C018,BK00261,9,0.5,knowledge
+bm25,C018,BK00260,10,0.0,
+bm25,C019,BK00287,1,1.0,innovation management
+bm25,C019,BK00019,2,1.0,innovation management
+bm25,C019,BK00275,3,1.0,innovation management
+bm25,C019,BK00251,4,1.0,innovation management
+bm25,C019,BK00023,5,1.0,innovation management
+bm25,C019,BK00028,6,1.0,innovation management
+bm25,C019,BK00021,7,1.0,innovation management
+bm25,C019,BK00284,8,0.5,management
+bm25,C019,BK00246,9,0.5,innovation
+bm25,C019,BK00276,10,1.0,innovation management
+bm25,C020,BK00301,1,0.0,
+bm25,C020,BK00303,2,0.0,
+bm25,C020,BK00311,3,0.0,
+bm25,C020,BK00300,4,0.0,
+bm25,C020,BK00110,5,0.5,health
+bm25,C020,BK00411,6,0.5,health
+bm25,C020,BK00302,7,0.0,
+bm25,C020,BK00963,8,0.5,health
+bm25,C020,BK00107,9,0.5,health
+bm25,C020,BK00105,10,0.5,health
+bm25,C021,BK00321,1,1.0,economic health
+bm25,C021,BK00323,2,0.5,health
+bm25,C021,BK00314,3,1.0,economic health
+bm25,C021,BK00094,4,0.5,health
+bm25,C021,BK00322,5,0.0,
+bm25,C021,BK00103,6,0.5,health
+bm25,C021,BK00316,7,1.0,economic health
+bm25,C021,BK00312,8,1.0,economic health
+bm25,C021,BK00304,9,1.0,economic health
+bm25,C021,BK00320,10,0.5,health
+bm25,C022,BK00335,1,0.6666666666666666,corporate governance
+bm25,C022,BK00388,2,0.6666666666666666,corporate governance
+bm25,C022,BK00347,3,0.6666666666666666,corporate governance
+bm25,C022,BK00342,4,0.6666666666666666,corporate governance
+bm25,C022,BK00390,5,0.6666666666666666,corporate governance
+bm25,C022,BK00330,6,0.6666666666666666,corporate governance
+bm25,C022,BK00351,7,0.6666666666666666,corporate governance
+bm25,C022,BK00540,8,1.0,corporate good governance
+bm25,C022,BK00326,9,0.6666666666666666,corporate governance
+bm25,C022,BK00329,10,0.6666666666666666,corporate governance
+bm25,C023,BK00846,1,1.0,management risk
+bm25,C023,BK00354,2,1.0,management risk
+bm25,C023,BK00356,3,1.0,management risk
+bm25,C023,BK00375,4,1.0,management risk
+bm25,C023,BK00359,5,1.0,management risk
+bm25,C023,BK00718,6,1.0,management risk
+bm25,C023,BK00355,7,1.0,management risk
+bm25,C023,BK00374,8,0.5,risk
+bm25,C023,BK00466,9,1.0,management risk
+bm25,C023,BK00372,10,1.0,management risk
+bm25,C024,BK00400,1,1.0,compliance internal
+bm25,C024,BK00381,2,0.5,compliance
+bm25,C024,BK00398,3,1.0,compliance internal
+bm25,C024,BK00480,4,0.5,compliance
+bm25,C024,BK00386,5,0.5,compliance
+bm25,C024,BK00382,6,0.5,compliance
+bm25,C024,BK00364,7,0.0,
+bm25,C024,BK00477,8,0.5,internal
+bm25,C024,BK00387,9,0.5,compliance
+bm25,C024,BK00388,10,1.0,compliance internal
+bm25,C025,BK00402,1,0.5,auditing
+bm25,C025,BK00395,2,0.5,auditing
+bm25,C025,BK00401,3,0.5,auditing
+bm25,C025,BK00405,4,0.5,auditing
+bm25,C025,BK00407,5,0.5,auditing
+bm25,C025,BK00403,6,0.5,auditing
+bm25,C025,BK00400,7,0.5,auditing
+bm25,C025,BK00398,8,0.5,auditing
+bm25,C025,BK00406,9,0.5,auditing
+bm25,C025,BK00399,10,0.5,auditing
+bm25,C026,BK00386,1,0.3333333333333333,compliance
+bm25,C026,BK00387,2,0.3333333333333333,compliance
+bm25,C026,BK00090,3,0.3333333333333333,member
+bm25,C026,BK00390,4,0.3333333333333333,compliance
+bm25,C026,BK00599,5,0.0,
+bm25,C026,BK00351,6,0.3333333333333333,enforcing
+bm25,C026,BK00384,7,0.3333333333333333,compliance
+bm25,C026,BK00381,8,0.3333333333333333,compliance
+bm25,C026,BK00413,9,0.3333333333333333,member
+bm25,C026,BK00034,10,0.0,
+bm25,C027,BK00385,1,0.5,regulation
+bm25,C027,BK00423,2,0.5,regulation
+bm25,C027,BK00446,3,1.0,management regulation
+bm25,C027,BK00420,4,0.5,regulation
+bm25,C027,BK00361,5,1.0,management regulation
+bm25,C027,BK00100,6,0.5,management
+bm25,C027,BK00237,7,0.5,management
+bm25,C027,BK00812,8,0.5,management
+bm25,C027,BK00111,9,1.0,management regulation
+bm25,C027,BK00424,10,0.5,regulation
+bm25,C028,BK00426,1,1.0,drafting legal
+bm25,C028,BK00435,2,1.0,drafting legal
+bm25,C028,BK00436,3,1.0,drafting legal
+bm25,C028,BK00434,4,0.5,drafting
+bm25,C028,BK00428,5,0.5,drafting
+bm25,C028,BK00437,6,1.0,drafting legal
+bm25,C028,BK00429,7,1.0,drafting legal
+bm25,C028,BK00425,8,1.0,drafting legal
+bm25,C028,BK00330,9,1.0,drafting legal
+bm25,C028,BK00438,10,0.5,legal
+bm25,C029,BK00439,1,1.0,law management
+bm25,C029,BK00125,2,1.0,law management
+bm25,C029,BK00361,3,0.5,management
+bm25,C029,BK00388,4,0.0,
+bm25,C029,BK00330,5,0.5,law
+bm25,C029,BK00546,6,0.5,management
+bm25,C029,BK00433,7,0.5,law
+bm25,C029,BK00432,8,0.5,law
+bm25,C029,BK00456,9,1.0,law management
+bm25,C029,BK00329,10,0.5,law
+bm25,C030,BK00445,1,0.0,
+bm25,C030,BK00309,2,0.0,
+bm25,C030,BK00107,3,0.0,
+bm25,C030,BK00959,4,0.0,
+bm25,C030,BK00410,5,0.0,
+bm25,C030,BK00411,6,0.0,
+bm25,C030,BK00585,7,0.0,
+bm25,C030,BK00365,8,0.0,
+bm25,C030,BK00105,9,0.0,
+bm25,C030,BK00963,10,0.0,
+bm25,C031,BK00447,1,1.0,investment management
+bm25,C031,BK00453,2,1.0,investment management
+bm25,C031,BK00454,3,1.0,investment management
+bm25,C031,BK00451,4,0.5,management
+bm25,C031,BK00806,5,0.5,management
+bm25,C031,BK00450,6,1.0,investment management
+bm25,C031,BK00808,7,0.5,management
+bm25,C031,BK00445,8,1.0,investment management
+bm25,C031,BK00361,9,0.5,management
+bm25,C031,BK00449,10,0.5,management
+bm25,C032,BK00457,1,1.0,management tax
+bm25,C032,BK00459,2,1.0,management tax
+bm25,C032,BK00461,3,1.0,management tax
+bm25,C032,BK00463,4,0.5,tax
+bm25,C032,BK00456,5,1.0,management tax
+bm25,C032,BK00462,6,0.5,tax
+bm25,C032,BK00460,7,0.5,tax
+bm25,C032,BK00464,8,0.5,tax
+bm25,C032,BK00458,9,1.0,management tax
+bm25,C032,BK00390,10,0.0,
+bm25,C033,BK00466,1,1.0,management treasury
+bm25,C033,BK00912,2,1.0,management treasury
+bm25,C033,BK00468,3,0.5,management
+bm25,C033,BK00467,4,0.5,management
+bm25,C033,BK00598,5,0.5,management
+bm25,C033,BK00361,6,0.5,management
+bm25,C033,BK00481,7,0.0,
+bm25,C033,BK00469,8,0.5,management
+bm25,C033,BK00370,9,0.5,management
+bm25,C033,BK00445,10,0.5,management
+bm25,C034,BK00485,1,1.0,accounting financial
+bm25,C034,BK00371,2,1.0,accounting financial
+bm25,C034,BK00479,3,1.0,accounting financial
+bm25,C034,BK00472,4,1.0,accounting financial
+bm25,C034,BK00480,5,1.0,accounting financial
+bm25,C034,BK00481,6,1.0,accounting financial
+bm25,C034,BK00471,7,1.0,accounting financial
+bm25,C034,BK00482,8,1.0,accounting financial
+bm25,C034,BK00477,9,1.0,accounting financial
+bm25,C034,BK00968,10,1.0,accounting financial
+bm25,C035,BK00490,1,1.0,accounting management
+bm25,C035,BK00478,2,0.5,accounting
+bm25,C035,BK00704,3,1.0,accounting management
+bm25,C035,BK00482,4,1.0,accounting management
+bm25,C035,BK00497,5,0.5,accounting
+bm25,C035,BK00498,6,0.5,accounting
+bm25,C035,BK00503,7,0.5,accounting
+bm25,C035,BK00504,8,0.5,accounting
+bm25,C035,BK00150,9,1.0,accounting management
+bm25,C035,BK00501,10,0.5,accounting
+bm25,C036,BK00507,1,0.0,
+bm25,C036,BK00513,2,0.5,institutional
+bm25,C036,BK00554,3,0.5,relations
+bm25,C036,BK00512,4,1.0,institutional relations
+bm25,C036,BK00510,5,0.5,relations
+bm25,C036,BK00633,6,1.0,institutional relations
+bm25,C036,BK00505,7,0.0,
+bm25,C036,BK00424,8,0.5,institutional
+bm25,C036,BK00515,9,0.5,institutional
+bm25,C036,BK00558,10,1.0,institutional relations
+bm25,C037,BK00524,1,0.5,negotiation
+bm25,C037,BK00520,2,0.5,negotiation
+bm25,C037,BK00529,3,0.0,
+bm25,C037,BK00532,4,0.0,
+bm25,C037,BK00528,5,0.5,negotiation
+bm25,C037,BK00530,6,0.0,
+bm25,C037,BK00521,7,0.5,negotiation
+bm25,C037,BK00554,8,0.0,
+bm25,C037,BK00435,9,0.5,negotiation
+bm25,C037,BK00519,10,0.5,negotiation
+bm25,C038,BK00539,1,1.0,public relations
+bm25,C038,BK00534,2,1.0,public relations
+bm25,C038,BK00533,3,1.0,public relations
+bm25,C038,BK00511,4,1.0,public relations
+bm25,C038,BK00540,5,0.0,
+bm25,C038,BK00541,6,0.0,
+bm25,C038,BK00240,7,0.5,public
+bm25,C038,BK00558,8,1.0,public relations
+bm25,C038,BK00556,9,1.0,public relations
+bm25,C038,BK00479,10,0.5,public
+bm25,C039,BK00543,1,1.0,event management
+bm25,C039,BK00550,2,1.0,event management
+bm25,C039,BK00546,3,1.0,event management
+bm25,C039,BK00547,4,1.0,event management
+bm25,C039,BK00548,5,1.0,event management
+bm25,C039,BK00552,6,0.5,event
+bm25,C039,BK00544,7,1.0,event management
+bm25,C039,BK00549,8,0.5,event
+bm25,C039,BK00545,9,1.0,event management
+bm25,C039,BK00895,10,0.5,management
+bm25,C040,BK00555,1,0.5,relations
+bm25,C040,BK00554,2,0.5,relations
+bm25,C040,BK00539,3,0.5,relations
+bm25,C040,BK00553,4,0.5,relations
+bm25,C040,BK00534,5,1.0,internal relations
+bm25,C040,BK00559,6,0.5,internal
+bm25,C040,BK00630,7,0.0,
+bm25,C040,BK00561,8,0.0,
+bm25,C040,BK00556,9,1.0,internal relations
+bm25,C040,BK00567,10,0.0,
+bm25,C041,BK00570,1,0.5,office
+bm25,C041,BK00413,2,0.5,administration
+bm25,C041,BK00392,3,0.5,administration
+bm25,C041,BK00106,4,0.5,office
+bm25,C041,BK00415,5,0.5,administration
+bm25,C041,BK00408,6,0.5,administration
+bm25,C041,BK00824,7,0.5,administration
+bm25,C041,BK00676,8,0.5,administration
+bm25,C041,BK00823,9,0.5,administration
+bm25,C041,BK00414,10,0.0,
+bm25,C042,BK00571,1,1.0,protocol
+bm25,C042,BK00574,2,1.0,protocol
+bm25,C042,BK00573,3,1.0,protocol
+bm25,C042,BK00587,4,0.0,
+bm25,C042,BK00576,5,0.0,
+bm25,C042,BK00581,6,1.0,protocol
+bm25,C042,BK00572,7,0.0,
+bm25,C042,BK00207,8,0.0,
+bm25,C042,BK00775,9,0.0,
+bm25,C042,BK00722,10,0.0,
+bm25,C043,BK00591,1,0.3333333333333333,planning
+bm25,C043,BK00588,2,0.3333333333333333,planning
+bm25,C043,BK00205,3,0.3333333333333333,planning
+bm25,C043,BK00795,4,0.3333333333333333,planning
+bm25,C043,BK00627,5,0.6666666666666666,planning power
+bm25,C043,BK00099,6,0.3333333333333333,power
+bm25,C043,BK00010,7,0.3333333333333333,planning
+bm25,C043,BK00206,8,0.3333333333333333,power
+bm25,C043,BK00548,9,0.6666666666666666,planning power
+bm25,C043,BK00544,10,0.6666666666666666,planning power
+bm25,C044,BK00609,1,0.5,selection
+bm25,C044,BK00610,2,1.0,recruitment selection
+bm25,C044,BK00373,3,0.5,selection
+bm25,C044,BK00592,4,1.0,recruitment selection
+bm25,C044,BK00194,5,0.5,recruitment
+bm25,C044,BK00237,6,0.0,
+bm25,C044,BK00570,7,0.0,
+bm25,C044,BK00667,8,0.0,
+bm25,C044,BK00448,9,0.5,selection
+bm25,C044,BK00599,10,0.5,recruitment
+bm25,C045,BK00619,1,1.0,management performance system
+bm25,C045,BK00618,2,0.6666666666666666,management performance
+bm25,C045,BK00173,3,1.0,management performance system
+bm25,C045,BK00617,4,0.6666666666666666,management performance
+bm25,C045,BK00615,5,0.6666666666666666,management performance
+bm25,C045,BK00638,6,0.6666666666666666,management performance
+bm25,C045,BK00592,7,0.6666666666666666,management performance
+bm25,C045,BK00201,8,0.6666666666666666,management performance
+bm25,C045,BK00640,9,0.6666666666666666,management performance
+bm25,C045,BK00639,10,0.6666666666666666,management performance
+bm25,C046,BK00626,1,1.0,management talent
+bm25,C046,BK00627,2,0.0,
+bm25,C046,BK00622,3,1.0,management talent
+bm25,C046,BK00604,4,0.5,talent
+bm25,C046,BK00624,5,1.0,management talent
+bm25,C046,BK00621,6,1.0,management talent
+bm25,C046,BK00625,7,1.0,management talent
+bm25,C046,BK00588,8,0.5,talent
+bm25,C046,BK00623,9,1.0,management talent
+bm25,C046,BK00608,10,0.5,talent
+bm25,C047,BK00636,1,0.5,industrial
+bm25,C047,BK00556,2,0.5,industrial
+bm25,C047,BK00557,3,0.0,
+bm25,C047,BK00558,4,0.0,
+bm25,C047,BK00422,5,0.5,industrial
+bm25,C047,BK00634,6,0.0,
+bm25,C047,BK00633,7,0.5,industrial
+bm25,C047,BK00554,8,0.5,industrial
+bm25,C047,BK00632,9,0.5,industrial
+bm25,C047,BK00553,10,0.0,
+bm25,C048,BK00640,1,0.5,management
+bm25,C048,BK00639,2,0.5,management
+bm25,C048,BK00642,3,1.0,management reward
+bm25,C048,BK00613,4,1.0,management reward
+bm25,C048,BK00641,5,1.0,management reward
+bm25,C048,BK00638,6,0.5,management
+bm25,C048,BK00152,7,0.5,management
+bm25,C048,BK00592,8,0.5,management
+bm25,C048,BK00701,9,0.5,management
+bm25,C048,BK00180,10,0.5,management
+bm25,C049,BK00645,1,1.0,design instructional
+bm25,C049,BK00644,2,1.0,design instructional
+bm25,C049,BK00643,3,1.0,design instructional
+bm25,C049,BK00648,4,1.0,design instructional
+bm25,C049,BK00651,5,0.5,design
+bm25,C049,BK00962,6,0.0,
+bm25,C049,BK00630,7,0.5,design
+bm25,C049,BK00813,8,0.0,
+bm25,C049,BK00295,9,0.5,design
+bm25,C049,BK00190,10,0.5,design
+bm25,C050,BK00227,1,0.5,management
+bm25,C050,BK00289,2,0.5,management
+bm25,C050,BK00970,3,0.0,
+bm25,C050,BK00648,4,0.5,learning
+bm25,C050,BK00618,5,0.5,management
+bm25,C050,BK00263,6,1.0,learning management
+bm25,C050,BK00257,7,1.0,learning management
+bm25,C050,BK00761,8,0.5,management
+bm25,C050,BK00758,9,0.5,learning
+bm25,C050,BK00784,10,0.0,
+bm25,C051,BK00155,1,0.5,management
+bm25,C051,BK00680,2,1.0,change management
+bm25,C051,BK00184,3,1.0,change management
+bm25,C051,BK00685,4,0.5,change
+bm25,C051,BK00686,5,0.5,change
+bm25,C051,BK00691,6,1.0,change management
+bm25,C051,BK00687,7,0.5,change
+bm25,C051,BK00684,8,0.5,change
+bm25,C051,BK00099,9,0.5,management
+bm25,C051,BK00674,10,0.5,change
+bm25,C052,BK00016,1,1.0,culture development
+bm25,C052,BK00693,2,0.5,culture
+bm25,C052,BK00695,3,0.5,culture
+bm25,C052,BK00284,4,0.5,culture
+bm25,C052,BK00691,5,0.5,culture
+bm25,C052,BK00209,6,0.0,
+bm25,C052,BK00901,7,0.5,culture
+bm25,C052,BK00521,8,0.5,culture
+bm25,C052,BK00692,9,0.5,culture
+bm25,C052,BK00707,10,0.0,
+bm25,C053,BK00086,1,1.0,procurement
+bm25,C053,BK00698,2,1.0,procurement
+bm25,C053,BK00077,3,1.0,procurement
+bm25,C053,BK00089,4,1.0,procurement
+bm25,C053,BK00027,5,0.0,
+bm25,C053,BK00088,6,1.0,procurement
+bm25,C053,BK00706,7,0.0,
+bm25,C053,BK00700,8,1.0,procurement
+bm25,C053,BK00078,9,1.0,procurement
+bm25,C053,BK00082,10,1.0,procurement
+bm25,C054,BK00709,1,0.5,management
+bm25,C054,BK00710,2,0.5,management
+bm25,C054,BK00708,3,0.5,management
+bm25,C054,BK00400,4,1.0,inventory management
+bm25,C054,BK00235,5,0.5,management
+bm25,C054,BK00733,6,0.0,
+bm25,C054,BK00084,7,1.0,inventory management
+bm25,C054,BK00711,8,0.0,
+bm25,C054,BK00468,9,0.5,management
+bm25,C054,BK00679,10,0.5,management
+bm25,C055,BK00772,1,0.6666666666666666,design it
+bm25,C055,BK00835,2,0.3333333333333333,design
+bm25,C055,BK00725,3,1.0,design it planning
+bm25,C055,BK00722,4,0.6666666666666666,it planning
+bm25,C055,BK00924,5,0.3333333333333333,design
+bm25,C055,BK00770,6,0.6666666666666666,design it
+bm25,C055,BK00700,7,1.0,design it planning
+bm25,C055,BK00734,8,0.6666666666666666,design it
+bm25,C055,BK00837,9,0.6666666666666666,design it
+bm25,C055,BK00854,10,0.6666666666666666,design it
+bm25,C056,BK00744,1,0.6666666666666666,database design
+bm25,C056,BK00746,2,1.0,database design development
+bm25,C056,BK00737,3,1.0,database design development
+bm25,C056,BK00740,4,1.0,database design development
+bm25,C056,BK00859,5,0.6666666666666666,database design
+bm25,C056,BK00748,6,0.6666666666666666,database design
+bm25,C056,BK00743,7,0.6666666666666666,database design
+bm25,C056,BK00756,8,0.6666666666666666,database development
+bm25,C056,BK00745,9,0.6666666666666666,database design
+bm25,C056,BK00747,10,0.6666666666666666,database design
+bm25,C057,BK00763,1,0.6666666666666666,development software
+bm25,C057,BK00761,2,0.6666666666666666,it software
+bm25,C057,BK00803,3,0.6666666666666666,development software
+bm25,C057,BK00900,4,0.6666666666666666,development software
+bm25,C057,BK00758,5,1.0,development it software
+bm25,C057,BK00283,6,1.0,development it software
+bm25,C057,BK00776,7,0.6666666666666666,development software
+bm25,C057,BK00741,8,0.6666666666666666,development software
+bm25,C057,BK00760,9,0.6666666666666666,development software
+bm25,C057,BK00767,10,0.3333333333333333,development
+bm25,C058,BK00792,1,0.5,quality
+bm25,C058,BK00790,2,1.0,it quality
+bm25,C058,BK00788,3,1.0,it quality
+bm25,C058,BK00236,4,0.5,quality
+bm25,C058,BK00784,5,0.5,quality
+bm25,C058,BK00787,6,0.5,it
+bm25,C058,BK00797,7,1.0,it quality
+bm25,C058,BK00783,8,0.5,quality
+bm25,C058,BK00791,9,0.5,it
+bm25,C058,BK00794,10,0.0,
+bm25,C059,BK00808,1,0.75,asset it management
+bm25,C059,BK00806,2,0.75,asset it management
+bm25,C059,BK00908,3,0.5,it management
+bm25,C059,BK00083,4,0.75,infrastructure it management
+bm25,C059,BK00807,5,0.75,asset it management
+bm25,C059,BK00912,6,0.5,asset management
+bm25,C059,BK00890,7,0.5,it management
+bm25,C059,BK00817,8,0.5,infrastructure it
+bm25,C059,BK00881,9,0.75,infrastructure it management
+bm25,C059,BK00889,10,0.75,infrastructure it management
+bm25,C060,BK00815,1,1.0,it network
+bm25,C060,BK00814,2,1.0,it network
+bm25,C060,BK00836,3,0.5,network
+bm25,C060,BK00827,4,1.0,it network
+bm25,C060,BK00817,5,1.0,it network
+bm25,C060,BK00838,6,0.5,network
+bm25,C060,BK00821,7,0.5,network
+bm25,C060,BK00813,8,0.5,it
+bm25,C060,BK00835,9,0.0,
+bm25,C060,BK00852,10,0.5,network
+bm25,C061,BK00844,1,0.5,security
+bm25,C061,BK00850,2,1.0,it security
+bm25,C061,BK00718,3,1.0,it security
+bm25,C061,BK00848,4,1.0,it security
+bm25,C061,BK00849,5,0.5,security
+bm25,C061,BK00851,6,1.0,it security
+bm25,C061,BK00839,7,1.0,it security
+bm25,C061,BK00845,8,0.5,security
+bm25,C061,BK00843,9,0.5,it
+bm25,C061,BK00810,10,1.0,it security
+bm25,C062,BK00737,1,1.0,administration database
+bm25,C062,BK00738,2,1.0,administration database
+bm25,C062,BK00860,3,1.0,administration database
+bm25,C062,BK00866,4,0.5,database
+bm25,C062,BK00400,5,0.5,database
+bm25,C062,BK00861,6,1.0,administration database
+bm25,C062,BK00752,7,1.0,administration database
+bm25,C062,BK00865,8,0.5,database
+bm25,C062,BK00859,9,1.0,administration database
+bm25,C062,BK00868,10,1.0,administration database
+bm25,C063,BK00894,1,1.0,it management service
+bm25,C063,BK00891,2,1.0,it management service
+bm25,C063,BK00881,3,1.0,it management service
+bm25,C063,BK00892,4,1.0,it management service
+bm25,C063,BK00889,5,1.0,it management service
+bm25,C063,BK00890,6,1.0,it management service
+bm25,C063,BK00885,7,1.0,it management service
+bm25,C063,BK00051,8,0.6666666666666666,management service
+bm25,C063,BK00886,9,0.6666666666666666,it service
+bm25,C063,BK00882,10,1.0,it management service
+bm25,C064,BK00896,1,1.0,deployment release
+bm25,C064,BK00903,2,0.5,deployment
+bm25,C064,BK00900,3,0.0,
+bm25,C064,BK00908,4,1.0,deployment release
+bm25,C064,BK00790,5,0.0,
+bm25,C064,BK00147,6,0.0,
+bm25,C064,BK00223,7,0.5,deployment
+bm25,C064,BK00922,8,1.0,deployment release
+bm25,C064,BK00820,9,0.5,release
+bm25,C064,BK00898,10,0.5,deployment
+bm25,C065,BK00918,1,1.0,data management
+bm25,C065,BK00921,2,1.0,data management
+bm25,C065,BK00919,3,1.0,data management
+bm25,C065,BK00910,4,1.0,data management
+bm25,C065,BK00226,5,0.5,management
+bm25,C065,BK00920,6,1.0,data management
+bm25,C065,BK00232,7,1.0,data management
+bm25,C065,BK00917,8,1.0,data management
+bm25,C065,BK00755,9,0.5,data
+bm25,C065,BK00932,10,0.5,data
+bm25,C066,BK00940,1,1.0,analytics data
+bm25,C066,BK00870,2,1.0,analytics data
+bm25,C066,BK00937,3,1.0,analytics data
+bm25,C066,BK00935,4,0.5,data
+bm25,C066,BK00954,5,1.0,analytics data
+bm25,C066,BK00933,6,0.5,data
+bm25,C066,BK00932,7,1.0,analytics data
+bm25,C066,BK00956,8,1.0,analytics data
+bm25,C066,BK00953,9,1.0,analytics data
+bm25,C066,BK00926,10,1.0,analytics data
+bm25,C067,BK00956,1,1.0,data visualization
+bm25,C067,BK00953,2,0.5,data
+bm25,C067,BK00955,3,1.0,data visualization
+bm25,C067,BK00945,4,0.5,visualization
+bm25,C067,BK00943,5,1.0,data visualization
+bm25,C067,BK00954,6,0.5,data
+bm25,C067,BK00936,7,1.0,data visualization
+bm25,C067,BK00948,8,0.5,visualization
+bm25,C067,BK00946,9,0.5,visualization
+bm25,C067,BK00937,10,1.0,data visualization
+tfidf,C001,BK00179,1,1.0,business development
+tfidf,C001,BK00001,2,0.5,business
+tfidf,C001,BK00028,3,0.5,business
+tfidf,C001,BK00003,4,0.5,business
+tfidf,C001,BK00006,5,0.5,business
+tfidf,C001,BK00002,6,1.0,business development
+tfidf,C001,BK00005,7,0.5,business
+tfidf,C001,BK00163,8,0.5,business
+tfidf,C001,BK00164,9,0.5,business
+tfidf,C001,BK00167,10,0.5,business
+tfidf,C002,BK00025,1,1.0,management marketing
+tfidf,C002,BK00027,2,1.0,management marketing
+tfidf,C002,BK00545,3,1.0,management marketing
+tfidf,C002,BK00063,4,1.0,management marketing
+tfidf,C002,BK00042,5,0.5,marketing
+tfidf,C002,BK00067,6,1.0,management marketing
+tfidf,C002,BK00033,7,0.5,marketing
+tfidf,C002,BK00179,8,1.0,management marketing
+tfidf,C002,BK00037,9,0.5,marketing
+tfidf,C002,BK00066,10,1.0,management marketing
+tfidf,C003,BK00047,1,0.3333333333333333,service
+tfidf,C003,BK00050,2,0.3333333333333333,service
+tfidf,C003,BK00070,3,0.3333333333333333,management
+tfidf,C003,BK00054,4,0.3333333333333333,service
+tfidf,C003,BK00051,5,0.6666666666666666,management service
+tfidf,C003,BK00107,6,0.3333333333333333,service
+tfidf,C003,BK00063,7,0.6666666666666666,management service
+tfidf,C003,BK00053,8,0.3333333333333333,service
+tfidf,C003,BK00056,9,0.3333333333333333,service
+tfidf,C003,BK00052,10,0.3333333333333333,service
+tfidf,C004,BK00107,1,0.3333333333333333,administration
+tfidf,C004,BK00058,2,0.6666666666666666,administration management
+tfidf,C004,BK00820,3,0.3333333333333333,administration
+tfidf,C004,BK00057,4,0.3333333333333333,administration
+tfidf,C004,BK00824,5,0.3333333333333333,administration
+tfidf,C004,BK00737,6,0.6666666666666666,administration management
+tfidf,C004,BK00822,7,0.3333333333333333,administration
+tfidf,C004,BK00817,8,0.3333333333333333,administration
+tfidf,C004,BK00860,9,0.3333333333333333,administration
+tfidf,C004,BK00115,10,0.6666666666666666,administration management
+tfidf,C005,BK00087,1,1.0,purchasing strategic
+tfidf,C005,BK00084,2,0.5,purchasing
+tfidf,C005,BK00705,3,0.5,purchasing
+tfidf,C005,BK00706,4,0.5,purchasing
+tfidf,C005,BK00089,5,0.5,purchasing
+tfidf,C005,BK00698,6,1.0,purchasing strategic
+tfidf,C005,BK00357,7,0.5,strategic
+tfidf,C005,BK00234,8,0.0,
+tfidf,C005,BK00145,9,0.0,
+tfidf,C005,BK00085,10,0.5,purchasing
+tfidf,C006,BK00318,1,1.0,management provider
+tfidf,C006,BK00626,2,0.5,management
+tfidf,C006,BK00101,3,1.0,management provider
+tfidf,C006,BK00096,4,1.0,management provider
+tfidf,C006,BK00103,5,0.0,
+tfidf,C006,BK00837,6,0.5,provider
+tfidf,C006,BK00095,7,0.5,management
+tfidf,C006,BK00319,8,0.0,
+tfidf,C006,BK00111,9,0.5,management
+tfidf,C006,BK00591,10,0.5,management
+tfidf,C007,BK00107,1,0.5,claim
+tfidf,C007,BK00104,2,0.0,
+tfidf,C007,BK00410,3,0.5,management
+tfidf,C007,BK00105,4,0.0,
+tfidf,C007,BK00963,5,0.0,
+tfidf,C007,BK00411,6,0.0,
+tfidf,C007,BK00585,7,0.0,
+tfidf,C007,BK00110,8,1.0,claim management
+tfidf,C007,BK00409,9,0.5,management
+tfidf,C007,BK00862,10,0.0,
+tfidf,C008,BK00626,1,0.5,management
+tfidf,C008,BK00320,2,0.5,utilization
+tfidf,C008,BK00716,3,1.0,management utilization
+tfidf,C008,BK00111,4,0.5,management
+tfidf,C008,BK00319,5,0.0,
+tfidf,C008,BK00095,6,0.5,management
+tfidf,C008,BK00318,7,0.5,management
+tfidf,C008,BK00381,8,0.0,
+tfidf,C008,BK00118,9,0.0,
+tfidf,C008,BK00843,10,0.5,utilization
+tfidf,C009,BK00124,1,0.5,fraud
+tfidf,C009,BK00132,2,0.5,fraud
+tfidf,C009,BK00123,3,0.5,fraud
+tfidf,C009,BK00121,4,0.5,fraud
+tfidf,C009,BK00127,5,0.5,fraud
+tfidf,C009,BK00122,6,0.5,fraud
+tfidf,C009,BK00130,7,0.5,fraud
+tfidf,C009,BK00133,8,0.5,fraud
+tfidf,C009,BK00932,9,0.5,fraud
+tfidf,C009,BK00390,10,0.0,
+tfidf,C010,BK00142,1,0.6666666666666666,budgeting management
+tfidf,C010,BK00145,2,0.6666666666666666,budgeting management
+tfidf,C010,BK00143,3,0.3333333333333333,budgeting
+tfidf,C010,BK00146,4,0.6666666666666666,budgeting management
+tfidf,C010,BK00467,5,1.0,budgeting corporate management
+tfidf,C010,BK00148,6,1.0,budgeting corporate management
+tfidf,C010,BK00149,7,0.3333333333333333,budgeting
+tfidf,C010,BK00144,8,0.6666666666666666,budgeting management
+tfidf,C010,BK00597,9,0.6666666666666666,budgeting management
+tfidf,C010,BK00357,10,0.6666666666666666,corporate management
+tfidf,C011,BK00451,1,1.0,management strategy
+tfidf,C011,BK00172,2,0.5,management
+tfidf,C011,BK00170,3,0.5,management
+tfidf,C011,BK00162,4,0.5,strategy
+tfidf,C011,BK00166,5,0.5,strategy
+tfidf,C011,BK00087,6,1.0,management strategy
+tfidf,C011,BK00171,7,0.5,strategy
+tfidf,C011,BK00176,8,0.0,
+tfidf,C011,BK00028,9,1.0,management strategy
+tfidf,C011,BK00160,10,0.5,strategy
+tfidf,C012,BK00192,1,1.0,design development organization
+tfidf,C012,BK00191,2,0.6666666666666666,design organization
+tfidf,C012,BK00193,3,1.0,design development organization
+tfidf,C012,BK00182,4,0.3333333333333333,development
+tfidf,C012,BK00190,5,0.6666666666666666,design organization
+tfidf,C012,BK00184,6,1.0,design development organization
+tfidf,C012,BK00620,7,0.6666666666666666,design organization
+tfidf,C012,BK00774,8,0.6666666666666666,design development
+tfidf,C012,BK00258,9,0.3333333333333333,organization
+tfidf,C012,BK00796,10,0.6666666666666666,design development
+tfidf,C013,BK00194,1,0.5,management
+tfidf,C013,BK00199,2,0.5,competence
+tfidf,C013,BK00600,3,0.0,
+tfidf,C013,BK00641,4,1.0,competence management
+tfidf,C013,BK00325,5,0.0,
+tfidf,C013,BK00546,6,0.5,management
+tfidf,C013,BK00375,7,0.5,management
+tfidf,C013,BK00395,8,0.5,management
+tfidf,C013,BK00726,9,0.0,
+tfidf,C013,BK00295,10,0.0,
+tfidf,C014,BK00207,1,0.6666666666666666,management process
+tfidf,C014,BK00210,2,0.6666666666666666,management process
+tfidf,C014,BK00222,3,1.0,management process system
+tfidf,C014,BK00209,4,0.6666666666666666,management process
+tfidf,C014,BK00211,5,0.6666666666666666,management process
+tfidf,C014,BK00245,6,0.3333333333333333,management
+tfidf,C014,BK00214,7,0.3333333333333333,process
+tfidf,C014,BK00116,8,0.6666666666666666,management process
+tfidf,C014,BK00779,9,0.3333333333333333,process
+tfidf,C014,BK00212,10,0.3333333333333333,process
+tfidf,C015,BK00785,1,1.0,management quality
+tfidf,C015,BK00782,2,1.0,management quality
+tfidf,C015,BK00783,3,1.0,management quality
+tfidf,C015,BK00784,4,0.5,quality
+tfidf,C015,BK00234,5,1.0,management quality
+tfidf,C015,BK00231,6,1.0,management quality
+tfidf,C015,BK00790,7,1.0,management quality
+tfidf,C015,BK00084,8,1.0,management quality
+tfidf,C015,BK00232,9,1.0,management quality
+tfidf,C015,BK00226,10,1.0,management quality
+tfidf,C016,BK00608,1,1.0,development research
+tfidf,C016,BK00237,2,0.5,research
+tfidf,C016,BK00651,3,1.0,development research
+tfidf,C016,BK00055,4,0.5,research
+tfidf,C016,BK00226,5,1.0,development research
+tfidf,C016,BK00029,6,1.0,development research
+tfidf,C016,BK00200,7,1.0,development research
+tfidf,C016,BK00242,8,0.5,research
+tfidf,C016,BK00316,9,1.0,development research
+tfidf,C016,BK00243,10,0.5,research
+tfidf,C017,BK00245,1,0.6666666666666666,management product
+tfidf,C017,BK00268,2,0.6666666666666666,knowledge management
+tfidf,C017,BK00266,3,0.6666666666666666,knowledge management
+tfidf,C017,BK00269,4,0.6666666666666666,knowledge management
+tfidf,C017,BK00251,5,1.0,knowledge management product
+tfidf,C017,BK00254,6,0.6666666666666666,knowledge management
+tfidf,C017,BK00247,7,0.6666666666666666,management product
+tfidf,C017,BK00255,8,0.6666666666666666,knowledge management
+tfidf,C017,BK00273,9,0.6666666666666666,knowledge management
+tfidf,C017,BK00290,10,0.6666666666666666,management product
+tfidf,C018,BK00265,1,0.5,knowledge
+tfidf,C018,BK00254,2,1.0,knowledge management
+tfidf,C018,BK00263,3,1.0,knowledge management
+tfidf,C018,BK00268,4,1.0,knowledge management
+tfidf,C018,BK00266,5,1.0,knowledge management
+tfidf,C018,BK00622,6,1.0,knowledge management
+tfidf,C018,BK00269,7,1.0,knowledge management
+tfidf,C018,BK00255,8,1.0,knowledge management
+tfidf,C018,BK00267,9,0.5,knowledge
+tfidf,C018,BK00273,10,1.0,knowledge management
+tfidf,C019,BK00274,1,1.0,innovation management
+tfidf,C019,BK00276,2,1.0,innovation management
+tfidf,C019,BK00240,3,1.0,innovation management
+tfidf,C019,BK00287,4,1.0,innovation management
+tfidf,C019,BK00279,5,1.0,innovation management
+tfidf,C019,BK00284,6,0.5,management
+tfidf,C019,BK00286,7,0.0,
+tfidf,C019,BK00018,8,1.0,innovation management
+tfidf,C019,BK00019,9,1.0,innovation management
+tfidf,C019,BK00283,10,0.5,management
+tfidf,C020,BK00300,1,0.0,
+tfidf,C020,BK00303,2,0.0,
+tfidf,C020,BK00301,3,0.0,
+tfidf,C020,BK00963,4,0.5,health
+tfidf,C020,BK00107,5,0.5,health
+tfidf,C020,BK00411,6,0.5,health
+tfidf,C020,BK00302,7,0.0,
+tfidf,C020,BK00104,8,0.5,health
+tfidf,C020,BK00311,9,0.0,
+tfidf,C020,BK00105,10,0.5,health
+tfidf,C021,BK00323,1,0.5,health
+tfidf,C021,BK00321,2,1.0,economic health
+tfidf,C021,BK00312,3,1.0,economic health
+tfidf,C021,BK00316,4,1.0,economic health
+tfidf,C021,BK00314,5,1.0,economic health
+tfidf,C021,BK00103,6,0.5,health
+tfidf,C021,BK00313,7,0.5,health
+tfidf,C021,BK00304,8,1.0,economic health
+tfidf,C021,BK00094,9,0.5,health
+tfidf,C021,BK00322,10,0.0,
+tfidf,C022,BK00326,1,0.6666666666666666,corporate governance
+tfidf,C022,BK00327,2,0.6666666666666666,corporate governance
+tfidf,C022,BK00335,3,0.6666666666666666,corporate governance
+tfidf,C022,BK00334,4,0.6666666666666666,corporate governance
+tfidf,C022,BK00347,5,0.6666666666666666,corporate governance
+tfidf,C022,BK00329,6,0.6666666666666666,corporate governance
+tfidf,C022,BK00342,7,0.6666666666666666,corporate governance
+tfidf,C022,BK00333,8,0.6666666666666666,corporate governance
+tfidf,C022,BK00328,9,0.6666666666666666,corporate governance
+tfidf,C022,BK00345,10,0.3333333333333333,corporate
+tfidf,C023,BK00375,1,1.0,management risk
+tfidf,C023,BK00356,2,1.0,management risk
+tfidf,C023,BK00374,3,0.5,risk
+tfidf,C023,BK00354,4,1.0,management risk
+tfidf,C023,BK00373,5,0.5,risk
+tfidf,C023,BK00359,6,1.0,management risk
+tfidf,C023,BK00355,7,1.0,management risk
+tfidf,C023,BK00377,8,0.5,risk
+tfidf,C023,BK00358,9,1.0,management risk
+tfidf,C023,BK00368,10,1.0,management risk
+tfidf,C024,BK00381,1,0.5,compliance
+tfidf,C024,BK00382,2,0.5,compliance
+tfidf,C024,BK00386,3,0.5,compliance
+tfidf,C024,BK00400,4,1.0,compliance internal
+tfidf,C024,BK00477,5,0.5,internal
+tfidf,C024,BK00389,6,0.5,compliance
+tfidf,C024,BK00559,7,0.5,internal
+tfidf,C024,BK00388,8,1.0,compliance internal
+tfidf,C024,BK00387,9,0.5,compliance
+tfidf,C024,BK00398,10,1.0,compliance internal
+tfidf,C025,BK00395,1,0.5,auditing
+tfidf,C025,BK00401,2,0.5,auditing
+tfidf,C025,BK00399,3,0.5,auditing
+tfidf,C025,BK00402,4,0.5,auditing
+tfidf,C025,BK00405,5,0.5,auditing
+tfidf,C025,BK00407,6,0.5,auditing
+tfidf,C025,BK00398,7,0.5,auditing
+tfidf,C025,BK00406,8,0.5,auditing
+tfidf,C025,BK00403,9,0.5,auditing
+tfidf,C025,BK00400,10,0.5,auditing
+tfidf,C026,BK00386,1,0.3333333333333333,compliance
+tfidf,C026,BK00381,2,0.3333333333333333,compliance
+tfidf,C026,BK00387,3,0.3333333333333333,compliance
+tfidf,C026,BK00389,4,0.3333333333333333,compliance
+tfidf,C026,BK00390,5,0.3333333333333333,compliance
+tfidf,C026,BK00388,6,0.3333333333333333,compliance
+tfidf,C026,BK00090,7,0.3333333333333333,member
+tfidf,C026,BK00413,8,0.3333333333333333,member
+tfidf,C026,BK00599,9,0.0,
+tfidf,C026,BK00036,10,0.0,
+tfidf,C027,BK00385,1,0.5,regulation
+tfidf,C027,BK00420,2,0.5,regulation
+tfidf,C027,BK00423,3,0.5,regulation
+tfidf,C027,BK00446,4,1.0,management regulation
+tfidf,C027,BK00361,5,1.0,management regulation
+tfidf,C027,BK00381,6,0.0,
+tfidf,C027,BK00351,7,0.5,regulation
+tfidf,C027,BK00343,8,0.0,
+tfidf,C027,BK00421,9,0.0,
+tfidf,C027,BK00397,10,0.5,regulation
+tfidf,C028,BK00426,1,1.0,drafting legal
+tfidf,C028,BK00436,2,1.0,drafting legal
+tfidf,C028,BK00434,3,0.5,drafting
+tfidf,C028,BK00437,4,1.0,drafting legal
+tfidf,C028,BK00428,5,0.5,drafting
+tfidf,C028,BK00429,6,1.0,drafting legal
+tfidf,C028,BK00425,7,1.0,drafting legal
+tfidf,C028,BK00435,8,1.0,drafting legal
+tfidf,C028,BK00330,9,1.0,drafting legal
+tfidf,C028,BK00343,10,0.5,legal
+tfidf,C029,BK00439,1,1.0,law management
+tfidf,C029,BK00433,2,0.5,law
+tfidf,C029,BK00343,3,0.5,law
+tfidf,C029,BK00330,4,0.5,law
+tfidf,C029,BK00488,5,0.5,law
+tfidf,C029,BK00442,6,0.5,law
+tfidf,C029,BK00361,7,0.5,management
+tfidf,C029,BK00446,8,1.0,law management
+tfidf,C029,BK00437,9,0.5,law
+tfidf,C029,BK00637,10,0.5,law
+tfidf,C030,BK00107,1,0.0,
+tfidf,C030,BK00445,2,0.0,
+tfidf,C030,BK00365,3,0.0,
+tfidf,C030,BK00309,4,0.0,
+tfidf,C030,BK00585,5,0.0,
+tfidf,C030,BK00959,6,0.0,
+tfidf,C030,BK00411,7,0.0,
+tfidf,C030,BK00963,8,0.0,
+tfidf,C030,BK00410,9,0.0,
+tfidf,C030,BK00142,10,0.0,
+tfidf,C031,BK00447,1,1.0,investment management
+tfidf,C031,BK00446,2,1.0,investment management
+tfidf,C031,BK00454,3,1.0,investment management
+tfidf,C031,BK00449,4,0.5,management
+tfidf,C031,BK00450,5,1.0,investment management
+tfidf,C031,BK00453,6,1.0,investment management
+tfidf,C031,BK00451,7,0.5,management
+tfidf,C031,BK00316,8,0.5,investment
+tfidf,C031,BK00448,9,0.5,management
+tfidf,C031,BK00452,10,0.5,management
+tfidf,C032,BK00461,1,1.0,management tax
+tfidf,C032,BK00464,2,0.5,tax
+tfidf,C032,BK00460,3,0.5,tax
+tfidf,C032,BK00457,4,1.0,management tax
+tfidf,C032,BK00459,5,1.0,management tax
+tfidf,C032,BK00456,6,1.0,management tax
+tfidf,C032,BK00463,7,0.5,tax
+tfidf,C032,BK00629,8,0.5,tax
+tfidf,C032,BK00462,9,0.5,tax
+tfidf,C032,BK00458,10,1.0,management tax
+tfidf,C033,BK00466,1,1.0,management treasury
+tfidf,C033,BK00912,2,1.0,management treasury
+tfidf,C033,BK00468,3,0.5,management
+tfidf,C033,BK00467,4,0.5,management
+tfidf,C033,BK00538,5,0.5,management
+tfidf,C033,BK00357,6,0.5,management
+tfidf,C033,BK00598,7,0.5,management
+tfidf,C033,BK00361,8,0.5,management
+tfidf,C033,BK00370,9,0.5,management
+tfidf,C033,BK00439,10,0.5,management
+tfidf,C034,BK00968,1,1.0,accounting financial
+tfidf,C034,BK00484,2,1.0,accounting financial
+tfidf,C034,BK00472,3,1.0,accounting financial
+tfidf,C034,BK00479,4,1.0,accounting financial
+tfidf,C034,BK00371,5,1.0,accounting financial
+tfidf,C034,BK00481,6,1.0,accounting financial
+tfidf,C034,BK00471,7,1.0,accounting financial
+tfidf,C034,BK00477,8,1.0,accounting financial
+tfidf,C034,BK00480,9,1.0,accounting financial
+tfidf,C034,BK00482,10,1.0,accounting financial
+tfidf,C035,BK00492,1,1.0,accounting management
+tfidf,C035,BK00498,2,0.5,accounting
+tfidf,C035,BK00495,3,0.5,accounting
+tfidf,C035,BK00490,4,1.0,accounting management
+tfidf,C035,BK00482,5,1.0,accounting management
+tfidf,C035,BK00491,6,1.0,accounting management
+tfidf,C035,BK00504,7,0.5,accounting
+tfidf,C035,BK00494,8,1.0,accounting management
+tfidf,C035,BK00503,9,0.5,accounting
+tfidf,C035,BK00501,10,0.5,accounting
+tfidf,C036,BK00510,1,0.5,relations
+tfidf,C036,BK00513,2,0.5,institutional
+tfidf,C036,BK00633,3,1.0,institutional relations
+tfidf,C036,BK00515,4,0.5,institutional
+tfidf,C036,BK00554,5,0.5,relations
+tfidf,C036,BK00424,6,0.5,institutional
+tfidf,C036,BK00512,7,1.0,institutional relations
+tfidf,C036,BK00558,8,1.0,institutional relations
+tfidf,C036,BK00511,9,0.5,relations
+tfidf,C036,BK00557,10,0.5,relations
+tfidf,C037,BK00524,1,0.5,negotiation
+tfidf,C037,BK00530,2,0.0,
+tfidf,C037,BK00529,3,0.0,
+tfidf,C037,BK00520,4,0.5,negotiation
+tfidf,C037,BK00532,5,0.0,
+tfidf,C037,BK00528,6,0.5,negotiation
+tfidf,C037,BK00519,7,0.5,negotiation
+tfidf,C037,BK00521,8,0.5,negotiation
+tfidf,C037,BK00554,9,0.0,
+tfidf,C037,BK00577,10,0.5,negotiation
+tfidf,C038,BK00539,1,1.0,public relations
+tfidf,C038,BK00534,2,1.0,public relations
+tfidf,C038,BK00533,3,1.0,public relations
+tfidf,C038,BK00511,4,1.0,public relations
+tfidf,C038,BK00558,5,1.0,public relations
+tfidf,C038,BK00541,6,0.0,
+tfidf,C038,BK00540,7,0.0,
+tfidf,C038,BK00554,8,0.5,relations
+tfidf,C038,BK00557,9,0.5,relations
+tfidf,C038,BK00510,10,0.5,relations
+tfidf,C039,BK00547,1,1.0,event management
+tfidf,C039,BK00550,2,1.0,event management
+tfidf,C039,BK00544,3,1.0,event management
+tfidf,C039,BK00543,4,1.0,event management
+tfidf,C039,BK00545,5,1.0,event management
+tfidf,C039,BK00552,6,0.5,event
+tfidf,C039,BK00549,7,0.5,event
+tfidf,C039,BK00546,8,1.0,event management
+tfidf,C039,BK00551,9,0.5,event
+tfidf,C039,BK00548,10,1.0,event management
+tfidf,C040,BK00554,1,0.5,relations
+tfidf,C040,BK00555,2,0.5,relations
+tfidf,C040,BK00559,3,0.5,internal
+tfidf,C040,BK00553,4,0.5,relations
+tfidf,C040,BK00534,5,1.0,internal relations
+tfidf,C040,BK00557,6,0.5,relations
+tfidf,C040,BK00510,7,0.5,relations
+tfidf,C040,BK00632,8,0.5,relations
+tfidf,C040,BK00556,9,1.0,internal relations
+tfidf,C040,BK00633,10,0.5,relations
+tfidf,C041,BK00570,1,0.5,office
+tfidf,C041,BK00107,2,0.5,administration
+tfidf,C041,BK00751,3,0.5,office
+tfidf,C041,BK00392,4,0.5,administration
+tfidf,C041,BK00058,5,0.5,administration
+tfidf,C041,BK00824,6,0.5,administration
+tfidf,C041,BK00413,7,0.5,administration
+tfidf,C041,BK00820,8,0.5,administration
+tfidf,C041,BK00415,9,0.5,administration
+tfidf,C041,BK00860,10,1.0,administration office
+tfidf,C042,BK00571,1,1.0,protocol
+tfidf,C042,BK00581,2,1.0,protocol
+tfidf,C042,BK00574,3,1.0,protocol
+tfidf,C042,BK00573,4,1.0,protocol
+tfidf,C042,BK00576,5,0.0,
+tfidf,C042,BK00585,6,1.0,protocol
+tfidf,C042,BK00583,7,1.0,protocol
+tfidf,C042,BK00587,8,0.0,
+tfidf,C042,BK00572,9,0.0,
+tfidf,C042,BK00775,10,0.0,
+tfidf,C043,BK00588,1,0.3333333333333333,planning
+tfidf,C043,BK00591,2,0.3333333333333333,planning
+tfidf,C043,BK00627,3,0.6666666666666666,planning power
+tfidf,C043,BK00461,4,0.3333333333333333,planning
+tfidf,C043,BK00629,5,0.3333333333333333,planning
+tfidf,C043,BK00205,6,0.3333333333333333,planning
+tfidf,C043,BK00795,7,0.3333333333333333,planning
+tfidf,C043,BK00171,8,0.6666666666666666,planning power
+tfidf,C043,BK00172,9,0.3333333333333333,planning
+tfidf,C043,BK00170,10,0.3333333333333333,planning
+tfidf,C044,BK00609,1,0.5,selection
+tfidf,C044,BK00610,2,1.0,recruitment selection
+tfidf,C044,BK00592,3,1.0,recruitment selection
+tfidf,C044,BK00373,4,0.5,selection
+tfidf,C044,BK00257,5,0.5,selection
+tfidf,C044,BK00194,6,0.5,recruitment
+tfidf,C044,BK00646,7,0.5,selection
+tfidf,C044,BK00158,8,0.5,selection
+tfidf,C044,BK00599,9,0.5,recruitment
+tfidf,C044,BK00607,10,0.5,recruitment
+tfidf,C045,BK00618,1,0.6666666666666666,management performance
+tfidf,C045,BK00617,2,0.6666666666666666,management performance
+tfidf,C045,BK00619,3,1.0,management performance system
+tfidf,C045,BK00638,4,0.6666666666666666,management performance
+tfidf,C045,BK00615,5,0.6666666666666666,management performance
+tfidf,C045,BK00612,6,1.0,management performance system
+tfidf,C045,BK00173,7,1.0,management performance system
+tfidf,C045,BK00554,8,0.3333333333333333,management
+tfidf,C045,BK00591,9,0.6666666666666666,management performance
+tfidf,C045,BK00592,10,0.6666666666666666,management performance
+tfidf,C046,BK00623,1,1.0,management talent
+tfidf,C046,BK00626,2,1.0,management talent
+tfidf,C046,BK00604,3,0.5,talent
+tfidf,C046,BK00622,4,1.0,management talent
+tfidf,C046,BK00621,5,1.0,management talent
+tfidf,C046,BK00627,6,0.0,
+tfidf,C046,BK00624,7,1.0,management talent
+tfidf,C046,BK00625,8,1.0,management talent
+tfidf,C046,BK00601,9,1.0,management talent
+tfidf,C046,BK00603,10,1.0,management talent
+tfidf,C047,BK00557,1,0.0,
+tfidf,C047,BK00558,2,0.0,
+tfidf,C047,BK00636,3,0.5,industrial
+tfidf,C047,BK00633,4,0.5,industrial
+tfidf,C047,BK00422,5,0.5,industrial
+tfidf,C047,BK00556,6,0.5,industrial
+tfidf,C047,BK00632,7,0.5,industrial
+tfidf,C047,BK00634,8,0.0,
+tfidf,C047,BK00554,9,0.5,industrial
+tfidf,C047,BK00553,10,0.0,
+tfidf,C048,BK00642,1,1.0,management reward
+tfidf,C048,BK00641,2,1.0,management reward
+tfidf,C048,BK00613,3,1.0,management reward
+tfidf,C048,BK00640,4,0.5,management
+tfidf,C048,BK00639,5,0.5,management
+tfidf,C048,BK00638,6,0.5,management
+tfidf,C048,BK00152,7,0.5,management
+tfidf,C048,BK00592,8,0.5,management
+tfidf,C048,BK00589,9,1.0,management reward
+tfidf,C048,BK00180,10,0.5,management
+tfidf,C049,BK00643,1,1.0,design instructional
+tfidf,C049,BK00644,2,1.0,design instructional
+tfidf,C049,BK00645,3,1.0,design instructional
+tfidf,C049,BK00648,4,1.0,design instructional
+tfidf,C049,BK00962,5,0.0,
+tfidf,C049,BK00190,6,0.5,design
+tfidf,C049,BK00651,7,0.5,design
+tfidf,C049,BK00666,8,0.5,design
+tfidf,C049,BK00183,9,0.5,design
+tfidf,C049,BK00592,10,0.5,design
+tfidf,C050,BK00656,1,1.0,learning management
+tfidf,C050,BK00659,2,1.0,learning management
+tfidf,C050,BK00657,3,1.0,learning management
+tfidf,C050,BK00263,4,1.0,learning management
+tfidf,C050,BK00666,5,0.5,learning
+tfidf,C050,BK00257,6,1.0,learning management
+tfidf,C050,BK00758,7,0.5,learning
+tfidf,C050,BK00654,8,0.5,learning
+tfidf,C050,BK00648,9,0.5,learning
+tfidf,C050,BK00255,10,0.5,management
+tfidf,C051,BK00674,1,0.5,change
+tfidf,C051,BK00687,2,0.5,change
+tfidf,C051,BK00684,3,0.5,change
+tfidf,C051,BK00675,4,0.5,change
+tfidf,C051,BK00685,5,0.5,change
+tfidf,C051,BK00677,6,1.0,change management
+tfidf,C051,BK00686,7,0.5,change
+tfidf,C051,BK00681,8,1.0,change management
+tfidf,C051,BK00678,9,1.0,change management
+tfidf,C051,BK00189,10,0.5,management
+tfidf,C052,BK00691,1,0.5,culture
+tfidf,C052,BK00693,2,0.5,culture
+tfidf,C052,BK00692,3,0.5,culture
+tfidf,C052,BK00182,4,0.5,development
+tfidf,C052,BK00695,5,0.5,culture
+tfidf,C052,BK00016,6,1.0,culture development
+tfidf,C052,BK00284,7,0.5,culture
+tfidf,C052,BK00393,8,0.5,culture
+tfidf,C052,BK00521,9,0.5,culture
+tfidf,C052,BK00901,10,0.5,culture
+tfidf,C053,BK00086,1,1.0,procurement
+tfidf,C053,BK00077,2,1.0,procurement
+tfidf,C053,BK00078,3,1.0,procurement
+tfidf,C053,BK00698,4,1.0,procurement
+tfidf,C053,BK00082,5,1.0,procurement
+tfidf,C053,BK00079,6,1.0,procurement
+tfidf,C053,BK00706,7,0.0,
+tfidf,C053,BK00089,8,1.0,procurement
+tfidf,C053,BK00609,9,0.0,
+tfidf,C053,BK00088,10,1.0,procurement
+tfidf,C054,BK00708,1,0.5,management
+tfidf,C054,BK00710,2,0.5,management
+tfidf,C054,BK00709,3,0.5,management
+tfidf,C054,BK00084,4,1.0,inventory management
+tfidf,C054,BK00400,5,1.0,inventory management
+tfidf,C054,BK00711,6,0.0,
+tfidf,C054,BK00598,7,1.0,inventory management
+tfidf,C054,BK00235,8,0.5,management
+tfidf,C054,BK00469,9,1.0,inventory management
+tfidf,C054,BK00218,10,1.0,inventory management
+tfidf,C055,BK00243,1,0.3333333333333333,design
+tfidf,C055,BK00762,2,0.3333333333333333,design
+tfidf,C055,BK00725,3,1.0,design it planning
+tfidf,C055,BK00722,4,0.6666666666666666,it planning
+tfidf,C055,BK00835,5,0.3333333333333333,design
+tfidf,C055,BK00292,6,0.0,
+tfidf,C055,BK00772,7,0.6666666666666666,design it
+tfidf,C055,BK00832,8,1.0,design it planning
+tfidf,C055,BK00837,9,0.6666666666666666,design it
+tfidf,C055,BK00949,10,0.6666666666666666,design it
+tfidf,C056,BK00745,1,0.6666666666666666,database design
+tfidf,C056,BK00746,2,1.0,database design development
+tfidf,C056,BK00736,3,0.6666666666666666,database design
+tfidf,C056,BK00737,4,1.0,database design development
+tfidf,C056,BK00744,5,0.6666666666666666,database design
+tfidf,C056,BK00747,6,0.6666666666666666,database design
+tfidf,C056,BK00743,7,0.6666666666666666,database design
+tfidf,C056,BK00740,8,1.0,database design development
+tfidf,C056,BK00859,9,0.6666666666666666,database design
+tfidf,C056,BK00748,10,0.6666666666666666,database design
+tfidf,C057,BK00763,1,0.6666666666666666,development software
+tfidf,C057,BK00283,2,1.0,development it software
+tfidf,C057,BK00795,3,0.3333333333333333,software
+tfidf,C057,BK00768,4,0.3333333333333333,development
+tfidf,C057,BK00758,5,1.0,development it software
+tfidf,C057,BK00781,6,0.3333333333333333,software
+tfidf,C057,BK00761,7,0.6666666666666666,it software
+tfidf,C057,BK00759,8,0.6666666666666666,it software
+tfidf,C057,BK00760,9,0.6666666666666666,development software
+tfidf,C057,BK00900,10,0.6666666666666666,development software
+tfidf,C058,BK00792,1,0.5,quality
+tfidf,C058,BK00765,2,1.0,it quality
+tfidf,C058,BK00236,3,0.5,quality
+tfidf,C058,BK00788,4,1.0,it quality
+tfidf,C058,BK00790,5,1.0,it quality
+tfidf,C058,BK00793,6,0.0,
+tfidf,C058,BK00784,7,0.5,quality
+tfidf,C058,BK00785,8,0.5,quality
+tfidf,C058,BK00787,9,0.5,it
+tfidf,C058,BK00783,10,0.5,quality
+tfidf,C059,BK00808,1,0.75,asset it management
+tfidf,C059,BK00806,2,0.75,asset it management
+tfidf,C059,BK00807,3,0.75,asset it management
+tfidf,C059,BK00090,4,0.75,asset it management
+tfidf,C059,BK00083,5,0.75,infrastructure it management
+tfidf,C059,BK00811,6,0.25,infrastructure
+tfidf,C059,BK00809,7,0.5,infrastructure it
+tfidf,C059,BK00445,8,0.75,asset it management
+tfidf,C059,BK00447,9,0.5,asset management
+tfidf,C059,BK00895,10,0.75,infrastructure it management
+tfidf,C060,BK00827,1,1.0,it network
+tfidf,C060,BK00815,2,1.0,it network
+tfidf,C060,BK00814,3,1.0,it network
+tfidf,C060,BK00836,4,0.5,network
+tfidf,C060,BK00821,5,0.5,network
+tfidf,C060,BK00838,6,0.5,network
+tfidf,C060,BK00085,7,0.5,network
+tfidf,C060,BK00817,8,1.0,it network
+tfidf,C060,BK00860,9,1.0,it network
+tfidf,C060,BK00829,10,0.5,network
+tfidf,C061,BK00839,1,1.0,it security
+tfidf,C061,BK00844,2,0.5,security
+tfidf,C061,BK00913,3,0.5,security
+tfidf,C061,BK00973,4,1.0,it security
+tfidf,C061,BK00367,5,1.0,it security
+tfidf,C061,BK00718,6,1.0,it security
+tfidf,C061,BK00848,7,1.0,it security
+tfidf,C061,BK00378,8,0.5,security
+tfidf,C061,BK00850,9,1.0,it security
+tfidf,C061,BK00914,10,0.5,security
+tfidf,C062,BK00860,1,1.0,administration database
+tfidf,C062,BK00737,2,1.0,administration database
+tfidf,C062,BK00866,3,0.5,database
+tfidf,C062,BK00865,4,0.5,database
+tfidf,C062,BK00738,5,1.0,administration database
+tfidf,C062,BK00861,6,1.0,administration database
+tfidf,C062,BK00107,7,0.5,administration
+tfidf,C062,BK00868,8,1.0,administration database
+tfidf,C062,BK00736,9,0.5,database
+tfidf,C062,BK00859,10,1.0,administration database
+tfidf,C063,BK00890,1,1.0,it management service
+tfidf,C063,BK00881,2,1.0,it management service
+tfidf,C063,BK00117,3,0.6666666666666666,management service
+tfidf,C063,BK00882,4,1.0,it management service
+tfidf,C063,BK00892,5,1.0,it management service
+tfidf,C063,BK00051,6,0.6666666666666666,management service
+tfidf,C063,BK00901,7,1.0,it management service
+tfidf,C063,BK00147,8,0.6666666666666666,management service
+tfidf,C063,BK00885,9,1.0,it management service
+tfidf,C063,BK00889,10,1.0,it management service
+tfidf,C064,BK00903,1,0.5,deployment
+tfidf,C064,BK00908,2,1.0,deployment release
+tfidf,C064,BK00896,3,1.0,deployment release
+tfidf,C064,BK00922,4,1.0,deployment release
+tfidf,C064,BK00820,5,0.5,release
+tfidf,C064,BK00898,6,0.5,deployment
+tfidf,C064,BK00854,7,0.5,deployment
+tfidf,C064,BK00223,8,0.5,deployment
+tfidf,C064,BK00790,9,0.0,
+tfidf,C064,BK00900,10,0.0,
+tfidf,C065,BK00757,1,1.0,data management
+tfidf,C065,BK00910,2,1.0,data management
+tfidf,C065,BK00918,3,1.0,data management
+tfidf,C065,BK00921,4,1.0,data management
+tfidf,C065,BK00919,5,1.0,data management
+tfidf,C065,BK00917,6,1.0,data management
+tfidf,C065,BK00920,7,1.0,data management
+tfidf,C065,BK00400,8,1.0,data management
+tfidf,C065,BK00269,9,1.0,data management
+tfidf,C065,BK00232,10,1.0,data management
+tfidf,C066,BK00940,1,1.0,analytics data
+tfidf,C066,BK00937,2,1.0,analytics data
+tfidf,C066,BK00926,3,1.0,analytics data
+tfidf,C066,BK00957,4,1.0,analytics data
+tfidf,C066,BK00870,5,1.0,analytics data
+tfidf,C066,BK00954,6,1.0,analytics data
+tfidf,C066,BK00931,7,1.0,analytics data
+tfidf,C066,BK00938,8,0.5,data
+tfidf,C066,BK00217,9,1.0,analytics data
+tfidf,C066,BK00935,10,0.5,data
+tfidf,C067,BK00943,1,1.0,data visualization
+tfidf,C067,BK00936,2,1.0,data visualization
+tfidf,C067,BK00955,3,1.0,data visualization
+tfidf,C067,BK00956,4,1.0,data visualization
+tfidf,C067,BK00948,5,0.5,visualization
+tfidf,C067,BK00953,6,0.5,data
+tfidf,C067,BK00946,7,0.5,visualization
+tfidf,C067,BK00945,8,0.5,visualization
+tfidf,C067,BK00954,9,0.5,data
+tfidf,C067,BK00937,10,1.0,data visualization
+fasttext,C001,BK00164,1,0.5,business
+fasttext,C001,BK00028,2,0.5,business
+fasttext,C001,BK00087,3,0.5,business
+fasttext,C001,BK00078,4,0.5,business
+fasttext,C001,BK00345,5,0.5,business
+fasttext,C001,BK00582,6,0.5,business
+fasttext,C001,BK00004,7,0.5,business
+fasttext,C001,BK00017,8,0.5,business
+fasttext,C001,BK00002,9,1.0,business development
+fasttext,C001,BK00886,10,0.5,business
+fasttext,C002,BK00461,1,0.5,management
+fasttext,C002,BK00170,2,0.5,management
+fasttext,C002,BK00062,3,0.5,management
+fasttext,C002,BK00501,4,0.0,
+fasttext,C002,BK00150,5,0.5,management
+fasttext,C002,BK00500,6,0.0,
+fasttext,C002,BK00221,7,0.0,
+fasttext,C002,BK00499,8,0.0,
+fasttext,C002,BK00502,9,0.0,
+fasttext,C002,BK00078,10,0.5,management
+fasttext,C003,BK00234,1,0.3333333333333333,management
+fasttext,C003,BK00400,2,0.3333333333333333,management
+fasttext,C003,BK00045,3,0.3333333333333333,service
+fasttext,C003,BK00072,4,0.6666666666666666,management service
+fasttext,C003,BK00805,5,0.3333333333333333,management
+fasttext,C003,BK00109,6,0.3333333333333333,management
+fasttext,C003,BK00117,7,0.6666666666666666,management service
+fasttext,C003,BK00147,8,0.6666666666666666,management service
+fasttext,C003,BK00799,9,0.3333333333333333,management
+fasttext,C003,BK00103,10,0.0,
+fasttext,C004,BK00107,1,0.3333333333333333,administration
+fasttext,C004,BK00417,2,0.0,
+fasttext,C004,BK00558,3,0.0,
+fasttext,C004,BK00159,4,0.3333333333333333,management
+fasttext,C004,BK00556,5,0.3333333333333333,management
+fasttext,C004,BK00640,6,0.3333333333333333,management
+fasttext,C004,BK00323,7,0.0,
+fasttext,C004,BK00557,8,0.0,
+fasttext,C004,BK00924,9,0.3333333333333333,management
+fasttext,C004,BK00639,10,0.3333333333333333,management
+fasttext,C005,BK00710,1,0.0,
+fasttext,C005,BK00170,2,0.5,strategic
+fasttext,C005,BK00079,3,0.5,strategic
+fasttext,C005,BK00805,4,0.0,
+fasttext,C005,BK00085,5,0.5,purchasing
+fasttext,C005,BK00400,6,0.5,purchasing
+fasttext,C005,BK00159,7,0.5,strategic
+fasttext,C005,BK00368,8,0.0,
+fasttext,C005,BK00067,9,0.5,strategic
+fasttext,C005,BK00234,10,0.0,
+fasttext,C006,BK00234,1,0.5,management
+fasttext,C006,BK00116,2,0.5,management
+fasttext,C006,BK00321,3,0.0,
+fasttext,C006,BK00112,4,0.0,
+fasttext,C006,BK00117,5,0.5,management
+fasttext,C006,BK00815,6,0.5,management
+fasttext,C006,BK00094,7,0.5,management
+fasttext,C006,BK00115,8,0.5,management
+fasttext,C006,BK00147,9,0.5,management
+fasttext,C006,BK00093,10,0.5,management
+fasttext,C007,BK00110,1,1.0,claim management
+fasttext,C007,BK00147,2,0.5,management
+fasttext,C007,BK00107,3,0.5,claim
+fasttext,C007,BK00117,4,0.5,management
+fasttext,C007,BK00234,5,0.5,management
+fasttext,C007,BK00321,6,0.0,
+fasttext,C007,BK00094,7,0.5,management
+fasttext,C007,BK00109,8,0.5,management
+fasttext,C007,BK00227,9,0.5,management
+fasttext,C007,BK00289,10,0.5,management
+fasttext,C008,BK00107,1,0.0,
+fasttext,C008,BK00640,2,0.5,management
+fasttext,C008,BK00227,3,0.5,management
+fasttext,C008,BK00718,4,0.5,management
+fasttext,C008,BK00639,5,0.5,management
+fasttext,C008,BK00110,6,0.5,management
+fasttext,C008,BK00417,7,0.0,
+fasttext,C008,BK00558,8,0.0,
+fasttext,C008,BK00094,9,1.0,management utilization
+fasttext,C008,BK00147,10,0.5,management
+fasttext,C009,BK00132,1,0.5,fraud
+fasttext,C009,BK00640,2,0.5,management
+fasttext,C009,BK00234,3,0.5,management
+fasttext,C009,BK00639,4,0.5,management
+fasttext,C009,BK00110,5,0.5,management
+fasttext,C009,BK00123,6,0.5,fraud
+fasttext,C009,BK00375,7,0.5,management
+fasttext,C009,BK00718,8,0.5,management
+fasttext,C009,BK00147,9,0.5,management
+fasttext,C009,BK00481,10,0.0,
+fasttext,C010,BK00461,1,0.6666666666666666,corporate management
+fasttext,C010,BK00150,2,0.6666666666666666,budgeting management
+fasttext,C010,BK00500,3,0.0,
+fasttext,C010,BK00481,4,0.3333333333333333,corporate
+fasttext,C010,BK00501,5,0.0,
+fasttext,C010,BK00499,6,0.0,
+fasttext,C010,BK00484,7,0.0,
+fasttext,C010,BK00503,8,0.0,
+fasttext,C010,BK00502,9,0.0,
+fasttext,C010,BK00504,10,0.0,
+fasttext,C011,BK00078,1,0.5,management
+fasttext,C011,BK00087,2,1.0,management strategy
+fasttext,C011,BK00710,3,0.5,management
+fasttext,C011,BK00448,4,0.5,management
+fasttext,C011,BK00027,5,1.0,management strategy
+fasttext,C011,BK00067,6,1.0,management strategy
+fasttext,C011,BK00172,7,0.5,management
+fasttext,C011,BK00193,8,0.5,management
+fasttext,C011,BK00085,9,0.0,
+fasttext,C011,BK00400,10,0.5,management
+fasttext,C012,BK00193,1,1.0,design development organization
+fasttext,C012,BK00184,2,1.0,design development organization
+fasttext,C012,BK00674,3,0.0,
+fasttext,C012,BK00604,4,0.3333333333333333,development
+fasttext,C012,BK00170,5,0.0,
+fasttext,C012,BK00774,6,0.6666666666666666,design development
+fasttext,C012,BK00539,7,0.0,
+fasttext,C012,BK00288,8,0.3333333333333333,design
+fasttext,C012,BK00085,9,0.0,
+fasttext,C012,BK00644,10,0.3333333333333333,design
+fasttext,C013,BK00448,1,0.5,management
+fasttext,C013,BK00079,2,0.5,management
+fasttext,C013,BK00400,3,0.5,management
+fasttext,C013,BK00324,4,0.5,management
+fasttext,C013,BK00710,5,0.5,management
+fasttext,C013,BK00078,6,0.5,management
+fasttext,C013,BK00805,7,0.5,management
+fasttext,C013,BK00367,8,0.0,
+fasttext,C013,BK00217,9,0.5,management
+fasttext,C013,BK00067,10,0.5,management
+fasttext,C014,BK00710,1,0.3333333333333333,management
+fasttext,C014,BK00795,2,0.6666666666666666,management process
+fasttext,C014,BK00400,3,0.3333333333333333,management
+fasttext,C014,BK00448,4,0.3333333333333333,management
+fasttext,C014,BK00799,5,0.3333333333333333,management
+fasttext,C014,BK00805,6,0.3333333333333333,management
+fasttext,C014,BK00461,7,0.3333333333333333,management
+fasttext,C014,BK00085,8,0.0,
+fasttext,C014,BK00779,9,0.3333333333333333,process
+fasttext,C014,BK00109,10,0.3333333333333333,management
+fasttext,C015,BK00103,1,0.0,
+fasttext,C015,BK00109,2,0.5,management
+fasttext,C015,BK00799,3,1.0,management quality
+fasttext,C015,BK00795,4,0.5,management
+fasttext,C015,BK00234,5,1.0,management quality
+fasttext,C015,BK00710,6,0.5,management
+fasttext,C015,BK00232,7,1.0,management quality
+fasttext,C015,BK00321,8,0.5,quality
+fasttext,C015,BK00159,9,0.5,management
+fasttext,C015,BK00147,10,1.0,management quality
+fasttext,C016,BK00243,1,0.5,research
+fasttext,C016,BK00237,2,0.5,research
+fasttext,C016,BK00608,3,1.0,development research
+fasttext,C016,BK00242,4,0.5,research
+fasttext,C016,BK00948,5,0.5,development
+fasttext,C016,BK00768,6,0.5,development
+fasttext,C016,BK00537,7,0.5,research
+fasttext,C016,BK00743,8,0.5,research
+fasttext,C016,BK00767,9,1.0,development research
+fasttext,C016,BK00515,10,1.0,development research
+fasttext,C017,BK00799,1,0.6666666666666666,management product
+fasttext,C017,BK00448,2,0.3333333333333333,management
+fasttext,C017,BK00795,3,0.3333333333333333,management
+fasttext,C017,BK00400,4,0.6666666666666666,management product
+fasttext,C017,BK00765,5,0.6666666666666666,knowledge management
+fasttext,C017,BK00805,6,0.3333333333333333,management
+fasttext,C017,BK00247,7,0.6666666666666666,management product
+fasttext,C017,BK00452,8,0.3333333333333333,management
+fasttext,C017,BK00741,9,0.0,
+fasttext,C017,BK00779,10,0.0,
+fasttext,C018,BK00719,1,0.5,management
+fasttext,C018,BK00172,2,0.5,management
+fasttext,C018,BK00217,3,0.5,management
+fasttext,C018,BK00778,4,1.0,knowledge management
+fasttext,C018,BK00152,5,0.5,management
+fasttext,C018,BK00452,6,0.5,management
+fasttext,C018,BK00718,7,0.5,management
+fasttext,C018,BK00876,8,0.5,management
+fasttext,C018,BK00269,9,1.0,knowledge management
+fasttext,C018,BK00254,10,1.0,knowledge management
+fasttext,C019,BK00604,1,0.0,
+fasttext,C019,BK00193,2,0.5,management
+fasttext,C019,BK00085,3,0.0,
+fasttext,C019,BK00710,4,0.5,management
+fasttext,C019,BK00170,5,0.5,management
+fasttext,C019,BK00539,6,0.5,management
+fasttext,C019,BK00812,7,1.0,innovation management
+fasttext,C019,BK00078,8,0.5,management
+fasttext,C019,BK00152,9,0.5,management
+fasttext,C019,BK00172,10,0.5,management
+fasttext,C020,BK00107,1,0.5,health
+fasttext,C020,BK00110,2,0.5,health
+fasttext,C020,BK00963,3,0.5,health
+fasttext,C020,BK00117,4,0.5,health
+fasttext,C020,BK00557,5,0.5,health
+fasttext,C020,BK00441,6,0.5,health
+fasttext,C020,BK00147,7,0.5,health
+fasttext,C020,BK00316,8,0.5,health
+fasttext,C020,BK00103,9,0.5,health
+fasttext,C020,BK00444,10,0.5,health
+fasttext,C021,BK00103,1,0.5,health
+fasttext,C021,BK00107,2,0.5,health
+fasttext,C021,BK00323,3,0.5,health
+fasttext,C021,BK00147,4,0.5,health
+fasttext,C021,BK00120,5,0.5,health
+fasttext,C021,BK00101,6,0.5,health
+fasttext,C021,BK00109,7,0.0,
+fasttext,C021,BK00110,8,0.5,health
+fasttext,C021,BK00117,9,0.5,health
+fasttext,C021,BK00316,10,1.0,economic health
+fasttext,C022,BK00326,1,0.6666666666666666,corporate governance
+fasttext,C022,BK00335,2,0.6666666666666666,corporate governance
+fasttext,C022,BK00334,3,0.6666666666666666,corporate governance
+fasttext,C022,BK00329,4,0.6666666666666666,corporate governance
+fasttext,C022,BK00440,5,0.0,
+fasttext,C022,BK00336,6,0.0,
+fasttext,C022,BK00343,7,0.0,
+fasttext,C022,BK00510,8,0.0,
+fasttext,C022,BK00347,9,0.6666666666666666,corporate governance
+fasttext,C022,BK00342,10,0.6666666666666666,corporate governance
+fasttext,C023,BK00368,1,1.0,management risk
+fasttext,C023,BK00375,2,1.0,management risk
+fasttext,C023,BK00356,3,1.0,management risk
+fasttext,C023,BK00370,4,1.0,management risk
+fasttext,C023,BK00799,5,0.5,management
+fasttext,C023,BK00234,6,1.0,management risk
+fasttext,C023,BK00109,7,1.0,management risk
+fasttext,C023,BK00710,8,0.5,management
+fasttext,C023,BK00466,9,1.0,management risk
+fasttext,C023,BK00805,10,0.5,management
+fasttext,C024,BK00640,1,0.0,
+fasttext,C024,BK00639,2,0.0,
+fasttext,C024,BK00502,3,0.0,
+fasttext,C024,BK00501,4,0.0,
+fasttext,C024,BK00500,5,0.0,
+fasttext,C024,BK00503,6,0.0,
+fasttext,C024,BK00461,7,0.0,
+fasttext,C024,BK00499,8,0.0,
+fasttext,C024,BK00150,9,0.0,
+fasttext,C024,BK00323,10,0.0,
+fasttext,C025,BK00718,1,0.0,
+fasttext,C025,BK00803,2,0.0,
+fasttext,C025,BK00869,3,0.0,
+fasttext,C025,BK00400,4,0.5,auditing
+fasttext,C025,BK00504,5,0.0,
+fasttext,C025,BK00132,6,0.5,auditing
+fasttext,C025,BK00792,7,0.0,
+fasttext,C025,BK00569,8,0.0,
+fasttext,C025,BK00170,9,0.0,
+fasttext,C025,BK00778,10,0.0,
+fasttext,C026,BK00611,1,0.0,
+fasttext,C026,BK00556,2,0.0,
+fasttext,C026,BK00557,3,0.0,
+fasttext,C026,BK00640,4,0.0,
+fasttext,C026,BK00639,5,0.0,
+fasttext,C026,BK00107,6,0.0,
+fasttext,C026,BK00558,7,0.0,
+fasttext,C026,BK00483,8,0.0,
+fasttext,C026,BK00924,9,0.0,
+fasttext,C026,BK00512,10,0.0,
+fasttext,C027,BK00640,1,0.5,management
+fasttext,C027,BK00502,2,0.0,
+fasttext,C027,BK00323,3,0.0,
+fasttext,C027,BK00501,4,0.0,
+fasttext,C027,BK00639,5,0.5,management
+fasttext,C027,BK00500,6,0.0,
+fasttext,C027,BK00310,7,0.0,
+fasttext,C027,BK00503,8,0.0,
+fasttext,C027,BK00109,9,0.5,management
+fasttext,C027,BK00499,10,0.0,
+fasttext,C028,BK00434,1,0.5,drafting
+fasttext,C028,BK00150,2,0.0,
+fasttext,C028,BK00170,3,0.0,
+fasttext,C028,BK00793,4,0.0,
+fasttext,C028,BK00803,5,0.0,
+fasttext,C028,BK00753,6,0.0,
+fasttext,C028,BK00748,7,0.0,
+fasttext,C028,BK00481,8,0.0,
+fasttext,C028,BK00487,9,0.0,
+fasttext,C028,BK00486,10,0.0,
+fasttext,C029,BK00335,1,0.0,
+fasttext,C029,BK00326,2,0.0,
+fasttext,C029,BK00556,3,0.5,management
+fasttext,C029,BK00611,4,0.5,management
+fasttext,C029,BK00557,5,0.0,
+fasttext,C029,BK00417,6,0.5,law
+fasttext,C029,BK00558,7,0.0,
+fasttext,C029,BK00343,8,0.5,law
+fasttext,C029,BK00329,9,0.5,law
+fasttext,C029,BK00375,10,0.5,management
+fasttext,C030,BK00489,1,0.0,
+fasttext,C030,BK00486,2,0.0,
+fasttext,C030,BK00487,3,0.0,
+fasttext,C030,BK00762,4,0.0,
+fasttext,C030,BK00823,5,0.0,
+fasttext,C030,BK00321,6,0.0,
+fasttext,C030,BK00134,7,0.0,
+fasttext,C030,BK00925,8,0.0,
+fasttext,C030,BK00110,9,0.0,
+fasttext,C030,BK00469,10,0.5,premium
+fasttext,C031,BK00109,1,0.5,management
+fasttext,C031,BK00710,2,0.5,management
+fasttext,C031,BK00400,3,0.5,management
+fasttext,C031,BK00159,4,0.5,management
+fasttext,C031,BK00448,5,0.5,management
+fasttext,C031,BK00356,6,0.5,management
+fasttext,C031,BK00368,7,0.5,management
+fasttext,C031,BK00805,8,0.5,management
+fasttext,C031,BK00447,9,1.0,investment management
+fasttext,C031,BK00642,10,0.5,management
+fasttext,C032,BK00461,1,1.0,management tax
+fasttext,C032,BK00500,2,0.0,
+fasttext,C032,BK00501,3,0.0,
+fasttext,C032,BK00503,4,0.0,
+fasttext,C032,BK00499,5,0.0,
+fasttext,C032,BK00502,6,0.0,
+fasttext,C032,BK00150,7,0.5,management
+fasttext,C032,BK00323,8,0.0,
+fasttext,C032,BK00640,9,0.5,management
+fasttext,C032,BK00639,10,0.5,management
+fasttext,C033,BK00159,1,0.5,management
+fasttext,C033,BK00109,2,0.5,management
+fasttext,C033,BK00710,3,0.5,management
+fasttext,C033,BK00642,4,0.5,management
+fasttext,C033,BK00356,5,0.5,management
+fasttext,C033,BK00368,6,0.5,management
+fasttext,C033,BK00062,7,0.5,management
+fasttext,C033,BK00400,8,0.5,management
+fasttext,C033,BK00375,9,0.5,management
+fasttext,C033,BK00448,10,0.5,management
+fasttext,C034,BK00481,1,1.0,accounting financial
+fasttext,C034,BK00484,2,1.0,accounting financial
+fasttext,C034,BK00150,3,1.0,accounting financial
+fasttext,C034,BK00500,4,1.0,accounting financial
+fasttext,C034,BK00499,5,1.0,accounting financial
+fasttext,C034,BK00477,6,1.0,accounting financial
+fasttext,C034,BK00503,7,1.0,accounting financial
+fasttext,C034,BK00487,8,1.0,accounting financial
+fasttext,C034,BK00501,9,1.0,accounting financial
+fasttext,C034,BK00489,10,1.0,accounting financial
+fasttext,C035,BK00481,1,0.5,accounting
+fasttext,C035,BK00150,2,1.0,accounting management
+fasttext,C035,BK00499,3,0.5,accounting
+fasttext,C035,BK00503,4,0.5,accounting
+fasttext,C035,BK00484,5,0.5,accounting
+fasttext,C035,BK00500,6,0.5,accounting
+fasttext,C035,BK00501,7,0.5,accounting
+fasttext,C035,BK00502,8,0.5,accounting
+fasttext,C035,BK00487,9,0.5,accounting
+fasttext,C035,BK00486,10,0.5,accounting
+fasttext,C036,BK00557,1,0.5,relations
+fasttext,C036,BK00558,2,1.0,institutional relations
+fasttext,C036,BK00556,3,0.5,relations
+fasttext,C036,BK00417,4,0.0,
+fasttext,C036,BK00512,5,1.0,institutional relations
+fasttext,C036,BK00636,6,0.5,relations
+fasttext,C036,BK00632,7,0.5,relations
+fasttext,C036,BK00351,8,0.0,
+fasttext,C036,BK00107,9,0.0,
+fasttext,C036,BK00611,10,0.0,
+fasttext,C037,BK00524,1,0.5,negotiation
+fasttext,C037,BK00184,2,0.0,
+fasttext,C037,BK00310,3,0.0,
+fasttext,C037,BK00970,4,0.0,
+fasttext,C037,BK00774,5,0.0,
+fasttext,C037,BK00264,6,0.5,negotiation
+fasttext,C037,BK00253,7,0.0,
+fasttext,C037,BK00841,8,0.0,
+fasttext,C037,BK00170,9,0.0,
+fasttext,C037,BK00955,10,0.0,
+fasttext,C038,BK00558,1,1.0,public relations
+fasttext,C038,BK00557,2,0.5,relations
+fasttext,C038,BK00417,3,0.0,
+fasttext,C038,BK00107,4,0.0,
+fasttext,C038,BK00556,5,1.0,public relations
+fasttext,C038,BK00159,6,0.5,public
+fasttext,C038,BK00636,7,0.5,relations
+fasttext,C038,BK00554,8,0.5,relations
+fasttext,C038,BK00512,9,0.5,relations
+fasttext,C038,BK00534,10,1.0,public relations
+fasttext,C039,BK00400,1,0.5,management
+fasttext,C039,BK00710,2,0.5,management
+fasttext,C039,BK00461,3,0.5,management
+fasttext,C039,BK00109,4,0.5,management
+fasttext,C039,BK00170,5,0.5,management
+fasttext,C039,BK00805,6,0.5,management
+fasttext,C039,BK00078,7,0.5,management
+fasttext,C039,BK00718,8,0.5,management
+fasttext,C039,BK00159,9,0.5,management
+fasttext,C039,BK00448,10,0.5,management
+fasttext,C040,BK00557,1,0.5,relations
+fasttext,C040,BK00558,2,0.5,relations
+fasttext,C040,BK00351,3,0.0,
+fasttext,C040,BK00417,4,0.0,
+fasttext,C040,BK00510,5,0.5,relations
+fasttext,C040,BK00556,6,1.0,internal relations
+fasttext,C040,BK00512,7,0.5,relations
+fasttext,C040,BK00636,8,0.5,relations
+fasttext,C040,BK00241,9,0.0,
+fasttext,C040,BK00632,10,0.5,relations
+fasttext,C041,BK00107,1,0.5,administration
+fasttext,C041,BK00558,2,0.0,
+fasttext,C041,BK00417,3,0.0,
+fasttext,C041,BK00924,4,0.0,
+fasttext,C041,BK00962,5,0.5,administration
+fasttext,C041,BK00815,6,0.0,
+fasttext,C041,BK00234,7,0.0,
+fasttext,C041,BK00058,8,0.5,administration
+fasttext,C041,BK00554,9,0.0,
+fasttext,C041,BK00916,10,0.0,
+fasttext,C042,BK00924,1,0.0,
+fasttext,C042,BK00084,2,0.0,
+fasttext,C042,BK00234,3,0.0,
+fasttext,C042,BK00483,4,0.0,
+fasttext,C042,BK00802,5,0.0,
+fasttext,C042,BK00489,6,0.0,
+fasttext,C042,BK00611,7,0.0,
+fasttext,C042,BK00372,8,0.0,
+fasttext,C042,BK00462,9,0.0,
+fasttext,C042,BK00486,10,0.0,
+fasttext,C043,BK00461,1,0.3333333333333333,planning
+fasttext,C043,BK00400,2,0.3333333333333333,planning
+fasttext,C043,BK00464,3,0.3333333333333333,planning
+fasttext,C043,BK00912,4,0.0,
+fasttext,C043,BK00629,5,0.3333333333333333,planning
+fasttext,C043,BK00221,6,0.0,
+fasttext,C043,BK00869,7,0.0,
+fasttext,C043,BK00150,8,0.0,
+fasttext,C043,BK00795,9,0.3333333333333333,planning
+fasttext,C043,BK00170,10,0.3333333333333333,planning
+fasttext,C044,BK00970,1,0.0,
+fasttext,C044,BK00718,2,0.0,
+fasttext,C044,BK00788,3,0.0,
+fasttext,C044,BK00925,4,0.0,
+fasttext,C044,BK00792,5,0.0,
+fasttext,C044,BK00790,6,0.0,
+fasttext,C044,BK00731,7,0.0,
+fasttext,C044,BK00234,8,0.0,
+fasttext,C044,BK00321,9,0.0,
+fasttext,C044,BK00253,10,0.0,
+fasttext,C045,BK00310,1,0.3333333333333333,system
+fasttext,C045,BK00256,2,0.0,
+fasttext,C045,BK00718,3,0.6666666666666666,management system
+fasttext,C045,BK00803,4,0.3333333333333333,system
+fasttext,C045,BK00878,5,0.3333333333333333,management
+fasttext,C045,BK00234,6,0.3333333333333333,management
+fasttext,C045,BK00400,7,0.6666666666666666,management performance
+fasttext,C045,BK00924,8,0.6666666666666666,management system
+fasttext,C045,BK00748,9,0.0,
+fasttext,C045,BK00170,10,0.6666666666666666,management performance
+fasttext,C046,BK00078,1,0.5,management
+fasttext,C046,BK00448,2,0.5,management
+fasttext,C046,BK00601,3,1.0,management talent
+fasttext,C046,BK00400,4,0.5,management
+fasttext,C046,BK00452,5,0.5,management
+fasttext,C046,BK00193,6,0.5,management
+fasttext,C046,BK00642,7,0.5,management
+fasttext,C046,BK00625,8,1.0,management talent
+fasttext,C046,BK00604,9,0.5,talent
+fasttext,C046,BK00624,10,1.0,management talent
+fasttext,C047,BK00557,1,0.0,
+fasttext,C047,BK00558,2,0.0,
+fasttext,C047,BK00556,3,0.5,industrial
+fasttext,C047,BK00636,4,0.5,industrial
+fasttext,C047,BK00417,5,0.0,
+fasttext,C047,BK00512,6,0.0,
+fasttext,C047,BK00107,7,0.0,
+fasttext,C047,BK00611,8,0.0,
+fasttext,C047,BK00632,9,0.5,industrial
+fasttext,C047,BK00633,10,0.5,industrial
+fasttext,C048,BK00710,1,0.5,management
+fasttext,C048,BK00159,2,0.5,management
+fasttext,C048,BK00400,3,0.5,management
+fasttext,C048,BK00078,4,0.5,management
+fasttext,C048,BK00642,5,1.0,management reward
+fasttext,C048,BK00109,6,0.5,management
+fasttext,C048,BK00448,7,0.5,management
+fasttext,C048,BK00085,8,0.0,
+fasttext,C048,BK00368,9,0.5,management
+fasttext,C048,BK00062,10,0.5,management
+fasttext,C049,BK00288,1,0.5,design
+fasttext,C049,BK00737,2,0.5,design
+fasttext,C049,BK00644,3,1.0,design instructional
+fasttext,C049,BK00948,4,0.5,design
+fasttext,C049,BK00774,5,0.5,design
+fasttext,C049,BK00643,6,1.0,design instructional
+fasttext,C049,BK00776,7,0.5,design
+fasttext,C049,BK00295,8,0.5,design
+fasttext,C049,BK00645,9,1.0,design instructional
+fasttext,C049,BK00742,10,0.5,design
+fasttext,C050,BK00170,1,0.5,management
+fasttext,C050,BK00263,2,1.0,learning management
+fasttext,C050,BK00803,3,0.5,learning
+fasttext,C050,BK00434,4,0.5,learning
+fasttext,C050,BK00719,5,0.5,management
+fasttext,C050,BK00256,6,0.0,
+fasttext,C050,BK00040,7,0.0,
+fasttext,C050,BK00524,8,0.5,management
+fasttext,C050,BK00184,9,1.0,learning management
+fasttext,C050,BK00748,10,0.0,
+fasttext,C051,BK00674,1,0.5,change
+fasttext,C051,BK00193,2,1.0,change management
+fasttext,C051,BK00678,3,1.0,change management
+fasttext,C051,BK00072,4,1.0,change management
+fasttext,C051,BK00184,5,1.0,change management
+fasttext,C051,BK00559,6,0.0,
+fasttext,C051,BK00087,7,0.5,management
+fasttext,C051,BK00085,8,0.0,
+fasttext,C051,BK00356,9,0.5,management
+fasttext,C051,BK00693,10,0.5,change
+fasttext,C052,BK00674,1,0.0,
+fasttext,C052,BK00184,2,1.0,culture development
+fasttext,C052,BK00193,3,0.5,development
+fasttext,C052,BK00085,4,0.0,
+fasttext,C052,BK00539,5,0.0,
+fasttext,C052,BK00687,6,0.0,
+fasttext,C052,BK00559,7,0.0,
+fasttext,C052,BK00346,8,0.0,
+fasttext,C052,BK00604,9,0.5,development
+fasttext,C052,BK00351,10,0.0,
+fasttext,C053,BK00805,1,0.0,
+fasttext,C053,BK00710,2,0.0,
+fasttext,C053,BK00452,3,0.0,
+fasttext,C053,BK00085,4,0.0,
+fasttext,C053,BK00448,5,0.0,
+fasttext,C053,BK00079,6,1.0,procurement
+fasttext,C053,BK00400,7,0.0,
+fasttext,C053,BK00172,8,0.0,
+fasttext,C053,BK00170,9,0.0,
+fasttext,C053,BK00779,10,0.0,
+fasttext,C054,BK00710,1,0.5,management
+fasttext,C054,BK00109,2,0.5,management
+fasttext,C054,BK00400,3,1.0,inventory management
+fasttext,C054,BK00234,4,0.5,management
+fasttext,C054,BK00718,5,0.5,management
+fasttext,C054,BK00805,6,0.5,management
+fasttext,C054,BK00323,7,0.0,
+fasttext,C054,BK00159,8,0.5,management
+fasttext,C054,BK00461,9,0.5,management
+fasttext,C054,BK00500,10,0.0,
+fasttext,C055,BK00172,1,0.6666666666666666,it planning
+fasttext,C055,BK00400,2,0.6666666666666666,it planning
+fasttext,C055,BK00448,3,0.3333333333333333,it
+fasttext,C055,BK00854,4,0.6666666666666666,design it
+fasttext,C055,BK00805,5,0.3333333333333333,it
+fasttext,C055,BK00067,6,0.3333333333333333,it
+fasttext,C055,BK00452,7,0.0,
+fasttext,C055,BK00269,8,0.0,
+fasttext,C055,BK00932,9,0.3333333333333333,design
+fasttext,C055,BK00027,10,0.6666666666666666,it planning
+fasttext,C056,BK00864,1,0.3333333333333333,database
+fasttext,C056,BK00310,2,0.0,
+fasttext,C056,BK00748,3,0.6666666666666666,database design
+fasttext,C056,BK00878,4,0.6666666666666666,database development
+fasttext,C056,BK00970,5,0.3333333333333333,design
+fasttext,C056,BK00936,6,0.0,
+fasttext,C056,BK00737,7,1.0,database design development
+fasttext,C056,BK00803,8,0.3333333333333333,development
+fasttext,C056,BK00948,9,0.6666666666666666,design development
+fasttext,C056,BK00775,10,0.3333333333333333,design
+fasttext,C057,BK00795,1,0.3333333333333333,software
+fasttext,C057,BK00775,2,0.3333333333333333,software
+fasttext,C057,BK00970,3,0.3333333333333333,software
+fasttext,C057,BK00793,4,0.3333333333333333,software
+fasttext,C057,BK00237,5,0.0,
+fasttext,C057,BK00803,6,0.6666666666666666,development software
+fasttext,C057,BK00452,7,0.0,
+fasttext,C057,BK00948,8,0.6666666666666666,development software
+fasttext,C057,BK00234,9,0.0,
+fasttext,C057,BK00283,10,1.0,development it software
+fasttext,C058,BK00799,1,0.5,quality
+fasttext,C058,BK00795,2,0.0,
+fasttext,C058,BK00103,3,0.0,
+fasttext,C058,BK00234,4,0.5,quality
+fasttext,C058,BK00321,5,1.0,it quality
+fasttext,C058,BK00805,6,1.0,it quality
+fasttext,C058,BK00232,7,0.5,quality
+fasttext,C058,BK00815,8,0.5,it
+fasttext,C058,BK00788,9,1.0,it quality
+fasttext,C058,BK00765,10,1.0,it quality
+fasttext,C059,BK00400,1,0.75,asset it management
+fasttext,C059,BK00805,2,0.5,it management
+fasttext,C059,BK00710,3,0.5,it management
+fasttext,C059,BK00448,4,0.5,it management
+fasttext,C059,BK00147,5,0.25,management
+fasttext,C059,BK00808,6,0.75,asset it management
+fasttext,C059,BK00783,7,0.5,asset management
+fasttext,C059,BK00361,8,0.75,asset it management
+fasttext,C059,BK00368,9,0.25,management
+fasttext,C059,BK00109,10,0.25,management
+fasttext,C060,BK00815,1,1.0,it network
+fasttext,C060,BK00822,2,0.5,network
+fasttext,C060,BK00400,3,0.5,it
+fasttext,C060,BK00826,4,0.5,network
+fasttext,C060,BK00820,5,0.5,network
+fasttext,C060,BK00805,6,0.5,it
+fasttext,C060,BK00852,7,0.5,network
+fasttext,C060,BK00718,8,0.5,it
+fasttext,C060,BK00869,9,1.0,it network
+fasttext,C060,BK00093,10,0.5,it
+fasttext,C061,BK00913,1,0.5,security
+fasttext,C061,BK00732,2,1.0,it security
+fasttext,C061,BK00852,3,0.5,security
+fasttext,C061,BK00718,4,1.0,it security
+fasttext,C061,BK00858,5,0.5,security
+fasttext,C061,BK00914,6,0.5,security
+fasttext,C061,BK00973,7,1.0,it security
+fasttext,C061,BK00828,8,0.0,
+fasttext,C061,BK00822,9,0.0,
+fasttext,C061,BK00846,10,0.5,security
+fasttext,C062,BK00936,1,0.0,
+fasttext,C062,BK00310,2,0.0,
+fasttext,C062,BK00878,3,0.5,database
+fasttext,C062,BK00748,4,0.5,database
+fasttext,C062,BK00864,5,0.5,database
+fasttext,C062,BK00876,6,0.5,database
+fasttext,C062,BK00746,7,0.5,database
+fasttext,C062,BK00803,8,0.0,
+fasttext,C062,BK00970,9,0.0,
+fasttext,C062,BK00744,10,0.5,database
+fasttext,C063,BK00117,1,0.6666666666666666,management service
+fasttext,C063,BK00147,2,0.6666666666666666,management service
+fasttext,C063,BK00159,3,0.3333333333333333,management
+fasttext,C063,BK00101,4,0.3333333333333333,management
+fasttext,C063,BK00234,5,0.3333333333333333,management
+fasttext,C063,BK00109,6,0.3333333333333333,management
+fasttext,C063,BK00448,7,0.6666666666666666,it management
+fasttext,C063,BK00805,8,0.6666666666666666,it management
+fasttext,C063,BK00808,9,1.0,it management service
+fasttext,C063,BK00710,10,0.6666666666666666,it management
+fasttext,C064,BK00799,1,0.0,
+fasttext,C064,BK00805,2,0.0,
+fasttext,C064,BK00234,3,0.0,
+fasttext,C064,BK00400,4,0.0,
+fasttext,C064,BK00783,5,0.0,
+fasttext,C064,BK00109,6,0.0,
+fasttext,C064,BK00448,7,0.0,
+fasttext,C064,BK00710,8,0.0,
+fasttext,C064,BK00765,9,0.0,
+fasttext,C064,BK00718,10,0.0,
+fasttext,C065,BK00870,1,1.0,data management
+fasttext,C065,BK00936,2,0.5,data
+fasttext,C065,BK00919,3,1.0,data management
+fasttext,C065,BK00917,4,1.0,data management
+fasttext,C065,BK00921,5,1.0,data management
+fasttext,C065,BK00920,6,1.0,data management
+fasttext,C065,BK00902,7,0.5,data
+fasttext,C065,BK00864,8,0.5,data
+fasttext,C065,BK00755,9,0.5,data
+fasttext,C065,BK00752,10,0.5,data
+fasttext,C066,BK00936,1,0.5,data
+fasttext,C066,BK00870,2,1.0,analytics data
+fasttext,C066,BK00864,3,0.5,data
+fasttext,C066,BK00755,4,0.5,data
+fasttext,C066,BK00919,5,1.0,analytics data
+fasttext,C066,BK00937,6,1.0,analytics data
+fasttext,C066,BK00752,7,0.5,data
+fasttext,C066,BK00902,8,1.0,analytics data
+fasttext,C066,BK00926,9,1.0,analytics data
+fasttext,C066,BK00940,10,1.0,analytics data
+fasttext,C067,BK00936,1,1.0,data visualization
+fasttext,C067,BK00870,2,0.5,data
+fasttext,C067,BK00310,3,0.0,
+fasttext,C067,BK00748,4,0.5,data
+fasttext,C067,BK00864,5,0.5,data
+fasttext,C067,BK00878,6,0.5,data
+fasttext,C067,BK00755,7,0.5,data
+fasttext,C067,BK00803,8,0.0,
+fasttext,C067,BK00970,9,0.0,
+fasttext,C067,BK00919,10,0.5,data

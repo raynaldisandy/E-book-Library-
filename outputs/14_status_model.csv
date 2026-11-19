@@ -1,0 +1,6 @@
+model,status,pasangan
+bm25,VALID,65191
+tfidf,VALID,65191
+fasttext,VALID,65191
+e5,VALID,65191
+bge_m3,VALID,65191

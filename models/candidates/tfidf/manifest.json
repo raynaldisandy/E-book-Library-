@@ -1,0 +1,7 @@
+{
+  "model_name": "tfidf",
+  "model_display_name": "TF-IDF N-gram (Fast Lightweight Baseline)",
+  "default_threshold": 0.1,
+  "default_score_margin": 0.25,
+  "export_timestamp": "2026-11-16 12:58:18"
+}

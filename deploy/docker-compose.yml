@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  bpjs-elibrary-api:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    container_name: bpjs_elibrary_ai_api
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

@@ -1,0 +1,7 @@
+model,uji_book_id_invalid,uji_competency_id_invalid
+bm25,True,True
+tfidf,True,True
+e5,True,True
+bge_m3,True,True
+bge_reranker,True,True
+fasttext,True,True

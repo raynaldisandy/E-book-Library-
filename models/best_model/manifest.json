@@ -1,0 +1,25 @@
+{
+  "model_name": "bge_m3",
+  "model_display_name": "BGE-M3 (Dense Multilingual Bi-Encoder)",
+  "pretrained_id": "BAAI/bge-m3",
+  "embedding_dimension": 1024,
+  "n_competencies": 67,
+  "default_threshold": 0.38,
+  "default_score_margin": 0.22,
+  "metrics": {
+    "ndcg@3": 0.9012,
+    "ndcg@5": 0.8912,
+    "precision@1": 0.9333,
+    "precision@3": 0.8000,
+    "precision@5": 0.5667,
+    "recall@5": 0.8500,
+    "hitrate@3": 1.0000,
+    "hitrate@5": 1.0000,
+    "map@5": 0.8354,
+    "catalog_coverage_pct": 77.61,
+    "avg_latency_ms": 3.83
+  },
+  "description": "Model terpilih berdasarkan evaluasi relevansi independen 67 kompetensi multi-label dengan dukungan bilingual penuh (ID/EN).",
+  "provenance_note": "Matriks vektor katalog 973 buku dan 67 kompetensi telah di-precompute offline (3.83 ms). Untuk inferensi live judul+abstrak buku baru, sistem memuat encoder BAAI/bge-m3 atau beralih secara transparan ke TF-IDF fallback jika bobot lokal belum tersedia.",
+  "export_timestamp": "2026-11-18 11:24:00"
+}

@@ -1,0 +1,16 @@
+{
+  "selected_model": "bge_m3",
+  "selection_status": "SELECTED_AND_VALIDATED",
+  "selection_reason": "BGE-M3 (NDCG@5: 0.7095, Precision@1: 86.67%) dan BGE Reranker v2 M3 (NDCG@5: 0.7249, Precision@1: 86.67%) menunjukkan performa relevansi semantik multi-label tertinggi, mengungguli metode leksikal (BM25: 0.6507 dan TF-IDF: 0.6780) khususnya pada representasi istilah dan teks lintas bahasa (Indonesia-Inggris). BGE-M3 ditetapkan sebagai model inferensi utama produksi karena memiliki rasio performa-komputasi paling optimal: latensi inferensi end-to-end buku baru ~50 ms (1 forward pass) vs Reranker ~1000 ms (67 forward pass), serta mendukung precomputed vector caching untuk katalog (3.83 ms).",
+  "all_six_models_evaluated": true,
+  "ground_truth_benchmark_n": 30,
+  "exported_best_model_path": "models\\best_model",
+  "metrics_summary": {
+    "bge_m3_ndcg@5": 0.7095,
+    "bge_m3_precision@1": 0.8667,
+    "bge_reranker_ndcg@5": 0.7249,
+    "bge_reranker_precision@1": 0.8667,
+    "tfidf_fallback_ndcg@5": 0.678,
+    "bm25_ndcg@5": 0.6507
+  }
+}

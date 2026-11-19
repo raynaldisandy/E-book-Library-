@@ -1,0 +1,4 @@
+﻿model_a,model_b,overlap_at10,jumlah_kompetensi_dibandingkan
+bm25,tfidf,0.6835820895522388,67
+bm25,fasttext,0.13880597014925372,67
+tfidf,fasttext,0.16567164179104477,67
