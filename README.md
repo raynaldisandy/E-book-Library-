@@ -1,4 +1,4 @@
-# BPJS Book Recommendation
+# Book Recommendation
 
 Dasbor e-library untuk mencari buku berdasarkan kompetensi kerja dan memetakan buku baru dari judul serta abstraknya. Dataset proyek berisi 973 buku dan 67 profil kompetensi.
 
